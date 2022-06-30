@@ -1,0 +1,19 @@
+twist: https://github.com/vbisin/Image-Restoration-Algorithm-TwIST
+Unet: (tf)https://github.com/mengziyi64/TSA-Net
+gap: https://github.com/liuyang12/DeSCI/tree/fc9fddddbe7a6d503301e79ead7eb599c2d5db39/algorithms
+lamudanet: (tf)https://github.com/xinxinmiao/lambda-net (pt)https://github.com/mlplab/Lambda
+Desci: https://github.com/liuyang12/DeSCI
+Dssp: (tf)https://github.com/wang-lizhi/DSSP (pt)https://github.com/mlplab/Lambda
+Dnu: https://github.com/wang-lizhi/DeepNonlocalUnrolling
+TSAnet: https://github.com/mengziyi64/TSA-Net
+gapnet: https://github.com/mengziyi64/GAP-net
+dgsm: https://github.com/MaxtBIT/DGSMP
+pnpdiphsi: https://github.com/mengziyi64/CASSI-Self-Supervised
+herosnet: https://github.com/jianzhangcs/HerosNet
+pnphsi: https://github.com/zsm1211/PnP-CASSI
+mst: https://github.com/caiyuanhao1998/MST
+caesrn: https://github.com/Jiamian-Wang/HSI_baseline
+gapccot: https://github.com/ucaswangls/GAP-CCoT
+
+zhangyulishimen@126.com
+zylsm123456
