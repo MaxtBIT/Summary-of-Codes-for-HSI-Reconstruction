@@ -1,5 +1,5 @@
 # Summary of Codes for HSI Reconstruction
-Codes for the paper: **A survey of reconstruction algorithms for coded aperture snapshot spectral imaging, under reviewed**.
+Codes for the paper: **A survey of reconstruction algorithms for coded aperture snapshot spectral imaging, under review**.
 
 ## Environment
 Python 3.6.2<br/>
