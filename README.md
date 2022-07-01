@@ -39,6 +39,16 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td>TensorFlow</td>
    </tr>
    <tr align = "center">
+      <td>U-Net</td>
+      <td>26.80</td>
+      <td>0.80</td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper</a></td>
+      <td>31.32</td>
+      <td>58.99</td>
+      <td><a href = "https://github.com/milesial/Pytorch-UNet/">Link</a></td>
+      <td>/</td>
+   </tr>
+   <tr align = "center">
       <td rowspan="2">Lambda-Net</td>
       <td>28.53</td>
       <td>0.84</td>
