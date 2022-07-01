@@ -49,14 +49,18 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
 <table>
    <tr align = "center">
       <td rowspan="2"></td>
-      <td colspan="2">ICVL</td>
-      <td colspan="2">Havard</td>  
+      <td colspan="1">Method</td>
+      <td colspan="2">Performance</td>
+      <td colspan="2">Complexity</td>  
+      <td colspan="2">Code</td>  
    </tr>
    <tr align = "center">
-      <td>Paper</td>
-      <td>Reproducing</td>
-      <td>Paper</td>
-      <td>Reproducing</td>
+      <td>PSNR</td>
+      <td>SSIM</td>
+      <td>Params</td>
+      <td>FLOPs</td>
+      <td>PyTorch</td>
+      <td>TensorFlow</td>
    </tr>
    <tr align = "center">
       <td>PSNR</td>
