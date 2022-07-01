@@ -134,7 +134,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">DGSM</td>
+      <td>DGSM</td>
       <td>32.63</td>
       <td>0.92</td>
       <td>Link</td>
@@ -144,7 +144,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">PnP-DIP-HSI</td>
+      <td>PnP-DIP-HSI</td>
       <td>31.30</td>
       <td>0.90</td>
       <td>Link</td>
@@ -154,7 +154,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">HerosNet</td>
+      <td>HerosNet</td>
       <td>34.45</td>
       <td>0.97</td>
       <td>Link</td>
@@ -164,7 +164,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">PnP-HSI</td>
+      <td>PnP-HSI</td>
       <td>25.67</td>
       <td>0.70</td>
       <td>Link</td>
@@ -174,7 +174,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">MST</td>
+      <td>MST</td>
       <td>35.18</td>
       <td>0.95</td>
       <td>Link</td>
@@ -184,7 +184,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">CAE-SRN</td>
+      <td>CAE-SRN</td>
       <td>33.26</td>
       <td>0.93</td>
       <td>Link</td>
@@ -194,7 +194,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">GAP-CCoT</td>
+      <td>GAP-CCoT</td>
       <td>35.26</td>
       <td>0.95</td>
       <td>Link</td>
