@@ -1,6 +1,6 @@
 from operator import mod
 from time import time
-from models.Lambda_Net.Lambda import UNet
+from models.U_Net.unet_model import UNet
 from models.Lambda_Net.Lambda import LambdaNet
 from models.DSSP.DeepSSPrior import DeepSSPrior
 from models.DNU.model import DNU
@@ -18,8 +18,7 @@ from ptflops import get_model_complexity_info
 #options: UNet Lambda_Net DSSP DNU TSA_Net GAP_Net DGSM PnP_DIP_HSI HerosNet PnP_HSI MST CAE_SRN GAP_CCoT
 method = 'UNet' # select the method
 
-# citied tensorflow version by https://github.com/xinxinmiao/lambda-net
-# citied pytorch version by https://github.com/mlplab/Lambda
+# citied pytorch version by https://github.com/milesial/Pytorch-UNet/
 if method == 'UNet':
     model = UNet(28, 28).cuda()
     flops, params = get_model_complexity_info(model, (28, 256, 256), True, True)
