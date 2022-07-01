@@ -70,8 +70,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td rowspan="2">58.25</td>
       <td rowspan="2">44.59</td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">Link</a></td>
+      <td rowspan="2"><a href = "https://github.com/xinxinmiao/lambda-net">Link</a></td>
    </tr>
    <tr align = "center">
       <td>29.25</td>
@@ -85,8 +85,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td rowspan="2">0.30</td>
       <td rowspan="2">20.14</td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">Link</a></td>
+      <td rowspan="2"><a href = "https://github.com/wang-lizhi/DSSP">Link</a></td>
    </tr>
    <tr align = "center">
       <td>28.93</td>
@@ -100,8 +100,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td>4.47</td>
       <td>293.90</td>
-      <td>Link</td>
-      <td>Link</td>
+      <td><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">Link</a></td>
+      <td></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">TSA-Net</td>
@@ -110,8 +110,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td rowspan="2">44.25</td>
       <td rowspan="2">135.12</td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/TSA-Net">Link</a></td>
+      <td rowspan="2"></td>
    </tr>
    <tr align = "center">
       <td>31.46</td>
@@ -119,14 +119,14 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">GAP-net</td>
+      <td rowspan="2">GAP-Net</td>
       <td>32.13</td>
       <td>0.92</td>
       <td>Link</td>
       <td rowspan="2">4.27</td>
       <td rowspan="2">84.08</td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">Link</a></td>
+      <td rowspan="2"></td>
    </tr>
    <tr align = "center">
       <td>32.47</td>
@@ -140,8 +140,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td>3.76</td>
       <td>647.80</td>
-      <td>Link</td>
-      <td>Link</td>
+      <td><a href = "https://github.com/MaxtBIT/DGSMP">Link</a></td>
+      <td></td>
    </tr>
    <tr align = "center">
       <td>PnP-DIP-HSI</td>
@@ -150,8 +150,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td>33.85</td>
       <td>≥3000</td>
-      <td>Link</td>
-      <td>Link</td>
+      <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">Link</a></td>
+      <td></td>
    </tr>
    <tr align = "center">
       <td>HerosNet</td>
@@ -160,8 +160,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td>11.75</td>
       <td>447.18</td>
-      <td>Link</td>
-      <td>Link</td>
+      <td><a href = "https://github.com/jianzhangcs/HerosNet">Link</a></td>
+      <td></td>
    </tr>
    <tr align = "center">
       <td>PnP-HSI</td>
@@ -170,8 +170,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td>1.96</td>
       <td>≥3000</td>
-      <td>Link</td>
-      <td>Link</td>
+      <td><a href = "https://github.com/zsm1211/PnP-CASSI">Link</a></td>
+      <td></td>
    </tr>
    <tr align = "center">
       <td>MST</td>
@@ -180,8 +180,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td>2.46</td>
       <td>31.40</td>
-      <td>Link</td>
-      <td>Link</td>
+      <td><a href = "https://github.com/caiyuanhao1998/MST">Link</a></td>
+      <td></td>
    </tr>
    <tr align = "center">
       <td>CAE-SRN</td>
@@ -190,8 +190,8 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
       <td>1.25</td>
       <td>83.06</td>
-      <td>Link</td>
-      <td>Link</td>
+      <td><a href = "https://github.com/Jiamian-Wang/HSI_baseline">Link</a></td>
+      <td></td>
    </tr>
    <tr align = "center">
       <td>GAP-CCoT</td>
@@ -201,7 +201,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>8.04</td>
       <td>95.60</td>
       <td><a href = "https://github.com/ucaswangls/GAP-CCoT">Link</a></td>
-      <td>Link</td>
+      <td></td>
    </tr>
 </table>
 
