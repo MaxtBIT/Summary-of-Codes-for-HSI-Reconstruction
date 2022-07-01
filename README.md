@@ -48,8 +48,8 @@ git clone https://github.com/MaxtBIT/HyperReconNet.git
 The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/) and [Harvard Dataset](http://vision.seas.harvard.edu/hyperspec/). In this stage, the mask is learnable. And the size of patches is 64 * 64 * 31. In addition, only the central areas with 512 * 512 * 31 are compared in testing.
 <table>
    <tr align = "center">
-      <td rowspan="2"></td>
-      <td colspan="1">Method</td>
+      <td rowspan="2">Method</td>
+      <!-- <td colspan="1"></td> -->
       <td colspan="2">Performance</td>
       <td colspan="2">Complexity</td>  
       <td colspan="2">Code</td>  
