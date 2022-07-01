@@ -105,137 +105,102 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
    </tr>
    <tr align = "center">
       <td rowspan="2">TSA-Net</td>
-      <td></td>
-      <td></td>
+      <td>30.15</td>
+      <td>0.89</td>
       <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
+      <td rowspan="2">44.25</td>
+      <td rowspan="2">135.12</td>
       <td rowspan="2">Link</td>
       <td rowspan="2">Link</td>
    </tr>
    <tr align = "center">
-      <td></td>
-      <td></td>
+      <td>31.46</td>
+      <td>0.89</td>
       <td>Link</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">GAP-net</td>
-      <td></td>
-      <td></td>
+      <td>32.13</td>
+      <td>0.92</td>
       <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
+      <td rowspan="2">4.27</td>
+      <td rowspan="2">84.08</td>
       <td rowspan="2">Link</td>
       <td rowspan="2">Link</td>
    </tr>
    <tr align = "center">
-      <td></td>
-      <td></td>
+      <td>32.47</td>
+      <td>0.93</td>
       <td>Link</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">DGSM</td>
-      <td></td>
-      <td></td>
+      <td>32.63</td>
+      <td>0.92</td>
       <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
+      <td>3.76</td>
+      <td>647.80</td>
+      <td>Link</td>
       <td>Link</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">PnP-DIP-HSI</td>
-      <td></td>
-      <td></td>
+      <td>31.30</td>
+      <td>0.90</td>
       <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
+      <td>33.85</td>
+      <td>≥3000</td>
+      <td>Link</td>
       <td>Link</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">HerosNet</td>
-      <td></td>
-      <td></td>
+      <td>34.45</td>
+      <td>0.97</td>
       <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
+      <td>11.75</td>
+      <td>447.18</td>
+      <td>Link</td>
       <td>Link</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">PnP-HSI</td>
-      <td></td>
-      <td></td>
+      <td>25.67</td>
+      <td>0.70</td>
       <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
+      <td>1.96</td>
+      <td>≥3000</td>
+      <td>Link</td>
       <td>Link</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">MST</td>
-      <td></td>
-      <td></td>
+      <td>35.18</td>
+      <td>0.95</td>
       <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
+      <td>2.46</td>
+      <td>31.40</td>
+      <td>Link</td>
       <td>Link</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">CAE-SRN</td>
-      <td></td>
-      <td></td>
+      <td>33.26</td>
+      <td>0.93</td>
       <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
+      <td>1.25</td>
+      <td>83.06</td>
+      <td>Link</td>
       <td>Link</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">GAP-CCoT</td>
-      <td></td>
-      <td></td>
+      <td>35.26</td>
+      <td>0.95</td>
       <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
+      <td>8.04</td>
+      <td>95.60</td>
+      <td>Link</td>
       <td>Link</td>
    </tr>
 </table>
