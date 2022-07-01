@@ -67,7 +67,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td rowspan="2">Lambda-Net</td>
       <td>28.53</td>
       <td>0.84</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Link1</a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">Link2</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Link1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Link2</a></td>
       <td rowspan="2">58.25</td>
       <td rowspan="2">44.59</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">Link</a></td>
