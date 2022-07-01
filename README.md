@@ -50,31 +50,33 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
    <tr align = "center">
       <td rowspan="2">Method</td>
       <!-- <td colspan="1"></td> -->
-      <td colspan="2">Performance</td>
+      <td colspan="3">Performance</td>
       <td colspan="2">Complexity</td>  
       <td colspan="2">Code</td>  
    </tr>
    <tr align = "center">
       <td>PSNR</td>
       <td>SSIM</td>
+      <td>Reference</td>
       <td>Params</td>
       <td>FLOPs</td>
       <td>PyTorch</td>
       <td>TensorFlow</td>
    </tr>
    <tr align = "center">
-      <td>PSNR</td>
-      <td>33.63</td>
+      <td rowspan="2">Lambda-Net</td>
+      <td>28.53</td>
       <td>34.76</td>
-      <td>31.36</td>
-      <td>31.39</td>
+      <td>Link</td>
+      <td rowspan="2">31.36</td>
+      <td rowspan="2">31.39</td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
    </tr>
    <tr align = "center">
-      <td>SSIM</td>
-      <td>0.990</td>
-      <td>0.973</td>
-      <td>0.973</td>
-      <td>0.900</td>
+      <td>28.53</td>
+      <td>34.76</td>
+      <td>Link</td>
    </tr>
    <tr align = "center">
       <td>SAM</td>
