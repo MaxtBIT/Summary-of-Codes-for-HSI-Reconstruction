@@ -65,6 +65,46 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
    </tr>
    <tr align = "center">
       <td rowspan="2">Lambda-Net</td>
+      <td>28.53</td>
+      <td>0.84</td>
+      <td>Link</td>
+      <td rowspan="2">58.25</td>
+      <td rowspan="2">44.59</td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td>29.25</td>
+      <td>0.89</td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">DSSP</td>
+      <td>30.35</td>
+      <td>0.85</td>
+      <td>Link</td>
+      <td rowspan="2">0.30</td>
+      <td rowspan="2">20.14</td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td>28.93</td>
+      <td>0.83</td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td>DNU</td>
+      <td>30.74</td>
+      <td>0.86</td>
+      <td>Link</td>
+      <td>4.47</td>
+      <td>293.90</td>
+      <td>Link</td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">TSA-Net</td>
       <td></td>
       <td></td>
       <td>Link</td>
@@ -79,7 +119,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
+      <td rowspan="2">GAP-net</td>
       <td></td>
       <td></td>
       <td>Link</td>
@@ -94,7 +134,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
+      <td rowspan="2">DGSM</td>
       <td></td>
       <td></td>
       <td>Link</td>
@@ -109,7 +149,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
+      <td rowspan="2">PnP-DIP-HSI</td>
       <td></td>
       <td></td>
       <td>Link</td>
@@ -124,7 +164,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
+      <td rowspan="2">HerosNet</td>
       <td></td>
       <td></td>
       <td>Link</td>
@@ -139,7 +179,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
+      <td rowspan="2">PnP-HSI</td>
       <td></td>
       <td></td>
       <td>Link</td>
@@ -154,7 +194,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
+      <td rowspan="2">MST</td>
       <td></td>
       <td></td>
       <td>Link</td>
@@ -169,7 +209,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
+      <td rowspan="2">CAE-SRN</td>
       <td></td>
       <td></td>
       <td>Link</td>
@@ -184,52 +224,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
-      <td></td>
-      <td></td>
-      <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
-      <td>Link</td>
-   </tr>
-   <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
-      <td></td>
-      <td></td>
-      <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
-      <td>Link</td>
-   </tr>
-   <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
-      <td></td>
-      <td></td>
-      <td>Link</td>
-      <td rowspan="2"></td>
-      <td rowspan="2"></td>
-      <td rowspan="2">Link</td>
-      <td rowspan="2">Link</td>
-   </tr>
-   <tr align = "center">
-      <td></td>
-      <td></td>
-      <td>Link</td>
-   </tr>
-   <tr align = "center">
-      <td rowspan="2">Lambda-Net</td>
+      <td rowspan="2">GAP-CCoT</td>
       <td></td>
       <td></td>
       <td>Link</td>
