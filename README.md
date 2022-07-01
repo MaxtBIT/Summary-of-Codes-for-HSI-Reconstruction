@@ -122,7 +122,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td rowspan="2">GAP-Net</td>
       <td>32.13</td>
       <td>0.92</td>
-      <td><a href = "">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Paper</a></td>
       <td rowspan="2">4.27</td>
       <td rowspan="2">84.08</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">Link</a></td>
@@ -187,7 +187,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>CAE-SRN</td>
       <td>33.26</td>
       <td>0.93</td>
-      <td><a href = "">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
       <td>1.25</td>
       <td>83.06</td>
       <td><a href = "https://github.com/Jiamian-Wang/HSI_baseline">Link</a></td>
@@ -197,7 +197,7 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
       <td>GAP-CCoT</td>
       <td>35.26</td>
       <td>0.95</td>
-      <td><a href = "">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2201.05768">Paper</a></td>
       <td>8.04</td>
       <td>95.60</td>
       <td><a href = "https://github.com/ucaswangls/GAP-CCoT">Link</a></td>
