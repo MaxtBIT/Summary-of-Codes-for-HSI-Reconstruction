@@ -1,5 +1,5 @@
 # Summary of Codes for HSI Reconstruction
-Codes for the paper: **A survey of reconstruction algorithms for coded aperture snapshot spectral imaging, under reviewed**
+Codes for the paper: **A survey of reconstruction algorithms for coded aperture snapshot spectral imaging, under reviewed**.
 
 ## Environment
 Python 3.6.2<br/>
@@ -19,7 +19,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 3. Select a method in **cal_params_FLOPs.py**. Then, run this file to get params_count and FLOPs.
 
 ## Summary
-To analyze the complexity, we have summarized the source codes of mainstream algorithms. In this stage, the size of reconstructed image is set as 256 * 256 * 28, following the work of Meng et al. The parameter counts and floating-point operation counts(FLOPs) are utilized to evaluate the complexity. In addition, the performance and code links are listed in Table.
+To analyze the complexity, we have summarized the source codes of mainstream algorithms.  The code links are shown in the table, sorted as PyTorch version and TensorFlow version. In this stage, the size of reconstructed image is set as 256 * 256 * 28, following the work of Meng et al. The parameter counts and floating-point operation counts(FLOPs) are utilized to evaluate the complexity. In addition, the average PSNR and SSIM on 10 scenes of KAIST Dataset are shown in the table.
 
 <table>
    <tr align = "center">
