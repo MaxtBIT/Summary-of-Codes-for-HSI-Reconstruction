@@ -15,6 +15,7 @@ from models.CAE_SRN.models_resblock_v2 import SSI_RES_UNET
 from models.GAP_CCoT.gap_network import GAP_CCoT
 from ptflops import get_model_complexity_info
 
+#options: UNet Lambda_Net DSSP DNU TSA_Net GAP_Net DGSM PnP_DIP_HSI HerosNet PnP_HSI MST CAE_SRN GAP_CCoT
 method = 'UNet' # select the method
 
 # citied tensorflow version by https://github.com/xinxinmiao/lambda-net
@@ -38,7 +39,8 @@ elif method == 'DSSP':
 # citied pytorch version by https://github.com/wang-lizhi/DeepNonlocalUnrolling
 elif method == 'DNU': 
     model = DNU(28, K=10)
-    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True) #If out of memory, the input size can be reduced to 128*182. Then, expand the FLOPs by 4 times.
+    #If out of memory, the input size can be reduced to 128*182. Then, expand the FLOPs by 4 times.
+    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True)
 
 # citied pytorch version by https://github.com/mengziyi64/TSA-Net
 elif method == 'TSA_Net': 
@@ -50,10 +52,11 @@ elif method == 'GAP_Net':
     model = GAP_net().cuda()
     flops, params = get_model_complexity_info(model, (256, 310), True, True)
 
-# citied by https://github.com/MaxtBIT/DGSMP
+# citied pytorch version by https://github.com/MaxtBIT/DGSMP
 elif method == 'DGSM':
     model = HSI_CS().cuda()
-    flops, params = get_model_complexity_info(model, (128, 182), True, True) #If out of memory, the input size can be reduced to 128*182. Then, expand the FLOPs by 4 times.
+    #If out of memory, the input size can be reduced to 128*182. Then, expand the FLOPs by 4 times.
+    flops, params = get_model_complexity_info(model, (128, 182), True, True)
 
 # citied pytorch version by https://github.com/mengziyi64/CASSI-Self-Supervised
 elif method == 'PnP_DIP_HSI': 
@@ -63,7 +66,8 @@ elif method == 'PnP_DIP_HSI':
 # citied pytorch version by https://github.com/jianzhangcs/HerosNet
 elif method == 'HerosNet': 
     model = HerosNet(Ch=28, stages=8, size=256).cuda()
-    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True) #If out of memory, the input size can be reduced to 128*128. Then, expand the FLOPs by 4 times.
+    #If out of memory, the input size can be reduced to 128*128. Then, expand the FLOPs by 4 times.
+    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True)
 
 # citied pytorch version by https://github.com/zsm1211/PnP-CASSI
 elif method == 'PnP_HSI': 
@@ -80,8 +84,8 @@ elif method == 'CAE_SRN':
     model = SSI_RES_UNET().cuda()
     flops, params = get_model_complexity_info(model, (28, 256, 256), True, True)
 
-# citied by https://github.com/ucaswangls/GAP-CCoT
-elif method == 'GAP-CCoT':
+# citied pytorch version by https://github.com/ucaswangls/GAP-CCoT
+elif method == 'GAP_CCoT':
     model = GAP_CCoT().cuda()
     flops, params = get_model_complexity_info(model, (256, 310), True, True)
 
