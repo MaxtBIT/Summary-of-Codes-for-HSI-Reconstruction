@@ -65,25 +65,183 @@ The results reproduced on [ICVL Dataset](http://icvl.cs.bgu.ac.il/hyperspectral/
    </tr>
    <tr align = "center">
       <td rowspan="2">Lambda-Net</td>
-      <td>28.53</td>
-      <td>34.76</td>
+      <td></td>
+      <td></td>
       <td>Link</td>
-      <td rowspan="2">31.36</td>
-      <td rowspan="2">31.39</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
       <td rowspan="2">Link</td>
       <td rowspan="2">Link</td>
    </tr>
    <tr align = "center">
-      <td>28.53</td>
-      <td>34.76</td>
+      <td></td>
+      <td></td>
       <td>Link</td>
    </tr>
    <tr align = "center">
-      <td>SAM</td>
-      <td>0.032</td>
-      <td>0.040</td>
-      <td>0.104</td>
-      <td>0.113</td>
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">Lambda-Net</td>
+      <td></td>
+      <td></td>
+      <td>Link</td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Link</td>
+      <td rowspan="2">Link</td>
+   </tr>
+   <tr align = "center">
+      <td></td>
+      <td></td>
+      <td>Link</td>
    </tr>
 </table>
 
