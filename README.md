@@ -138,7 +138,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/zsm1211/PnP-CASSI">PyTorch</a></td>
    </tr>
    <tr align = "center">
-      <td><a href = "">MST</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">MST</a></td>
       <td>35.18</td>
       <td>0.95</td>
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper</a></td>
@@ -147,7 +147,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/caiyuanhao1998/MST">PyTorch</a></td>
    </tr>
    <tr align = "center">
-      <td><a href = "">CAE-SRN</a></td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">CAE-SRN</a></td>
       <td>33.26</td>
       <td>0.93</td>
       <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
@@ -156,7 +156,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/Jiamian-Wang/HSI_baseline">PyTorch</a></td>
    </tr>
    <tr align = "center">
-      <td><a href = "">GAP-CCoT</a></td>
+      <td><a href = "https://arxiv.org/abs/2201.05768">GAP-CCoT</a></td>
       <td>35.26</td>
       <td>0.95</td>
       <td><a href = "https://arxiv.org/abs/2201.05768">Paper</a></td>
