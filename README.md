@@ -53,6 +53,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3</a></td>
    </tr>
    <tr align = "center">
+      <td rowspan="2">2016</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/7532817">GAP-TV</a></td>
       <td>24.36</td>
       <td>0.70</td>
@@ -67,6 +68,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper4</a></td>
    </tr>
    <tr align = "center">
+      <td rowspan="2">2019</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8481592">DeSCI</a></td>
       <td>25.27</td>
       <td>0.72</td>
@@ -81,6 +83,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper4</a></td>
    </tr>
    <tr align = "center">
+      <td rowspan="2">2019</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9010044">Lambda-Net</a></td>
       <td>28.53</td>
       <td>0.84</td>
@@ -95,6 +98,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper4</a></td>
    </tr>
    <tr align = "center">
+      <td rowspan="3">2019</td>
       <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
       <td>30.35</td>
       <td>0.85</td>
@@ -114,6 +118,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/wang-lizhi/DSSP">Link_1</a></td>
    </tr>
    <tr align = "center">
+      <td>2020</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9156942">DNU</a></td>
       <td>30.74</td>
       <td>0.86</td>
