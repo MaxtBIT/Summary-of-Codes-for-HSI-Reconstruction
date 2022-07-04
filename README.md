@@ -220,4 +220,13 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td>95.60</td>
       <td><a href = "https://github.com/ucaswangls/GAP-CCoT">PyTorch</a></td>
    </tr>
+   <tr align = "center">
+      <td><a href = "https://arxiv.org/abs/2203.02149">HDNet</a></td>
+      <td>34.34</td>
+      <td>0.96</td>
+      <td><a href = "https://arxiv.org/abs/2203.02149">Paper13</a></td>
+      <td>/</td>
+      <td>/</td>
+      <td><a href = "https://github.com/MaxtBIT/MST/tree/main/simulation/train_code/architecture">PyTorch</a></td>
+   </tr>
 </table>
