@@ -247,4 +247,14 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td>/</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/HDNet.py">PyTorch</a></td>
    </tr>
+   <tr align = "center">
+      <td>2022</td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">BIRNAT</a></td>
+      <td>36.14</td>
+      <td>0.97</td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">Paper14</a></td>
+      <td>/</td>
+      <td>/</td>
+      <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/BIRNAT.py">PyTorch</a></td>
+   </tr>
 </table>
