@@ -11,11 +11,12 @@ from models.HerosNet.HerosNet import HerosNet
 from models.CAE_SRN.models_resblock_v2 import SSI_RES_UNET
 from models.HDNet.HDNet import HDNet
 from models.MST.MST import MST
+from models.MST_Plus_Plus.MST_Plus_Plus import MST_Plus_Plus
 from models.GAP_CCoT.gap_network import GAP_CCoT
 from models.BIRNAT.BIRNAT import BIRNAT
 from ptflops import get_model_complexity_info
 
-#options: Lambda_Net DSSP DNU TSA_Net GAP_Net PnP_HSI PnP_DIP_HSI DGSMP DTLP HerosNet  CAE_SRN HDNet MST GAP_CCoT BIRNAT
+#options: Lambda_Net DSSP DNU TSA_Net GAP_Net PnP_HSI PnP_DIP_HSI DGSMP DTLP HerosNet  CAE_SRN HDNet MST MST_Plus_Plus GAP_CCoT BIRNAT
 method = 'Lambda_Net' # select the method
 
 # citied tensorflow version by https://github.com/xinxinmiao/lambda-net
@@ -86,6 +87,11 @@ elif method == 'HDNet':
 # citied pytorch version by https://github.com/caiyuanhao1998/MST
 elif method == 'MST': 
     model = MST().cuda()
+    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True) 
+
+# citied pytorch version by https://github.com/caiyuanhao1998/MST-plus-plus
+elif method == 'MST_Plus_Plus': 
+    model = MST_Plus_Plus().cuda()
     flops, params = get_model_complexity_info(model, (28, 256, 256), True, True) 
 
 # citied pytorch version by https://github.com/ucaswangls/GAP-CCoT
