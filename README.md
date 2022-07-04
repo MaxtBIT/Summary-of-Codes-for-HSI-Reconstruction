@@ -84,7 +84,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
-      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9010044">Lambda-Net</a></td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9010044">λ-Net</a></td>
       <td>28.53</td>
       <td>0.84</td>
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
@@ -179,7 +179,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    </tr>
    <tr align = "center">
       <td>2021</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9578572">DGSM</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572">DGSMP</a></td>
       <td>32.63</td>
       <td>0.92</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9578572">Paper8</a></td>
