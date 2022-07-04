@@ -159,23 +159,33 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    </tr>
    <tr align = "center">
       <td>2021</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9578572">DGSM</a></td>
-      <td>32.63</td>
-      <td>0.92</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9578572">Paper7</a></td>
-      <td>3.76</td>
-      <td>647.80</td>
-      <td><a href = "https://github.com/MaxtBIT/DGSMP">PyTorch</a></td>
+      <td><a href = "https://opg.optica.org/prj/fulltext.cfm?uri=prj-9-2-B18&id=446778">PnP-HSI</a></td>
+      <td>25.67</td>
+      <td>0.70</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper7</a></td>
+      <td>1.96</td>
+      <td>≥3000</td>
+      <td><a href = "https://github.com/zsm1211/PnP-CASSI">PyTorch</a></td>
    </tr>
    <tr align = "center">
       <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9710184">PnP-DIP-HSI</a></td>
       <td>31.30</td>
       <td>0.90</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper8</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper7</a></td>
       <td>33.85</td>
       <td>≥3000</td>
       <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">PyTorch</a></td>
+   </tr>
+   <tr align = "center">
+      <td>2021</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572">DGSM</a></td>
+      <td>32.63</td>
+      <td>0.92</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572">Paper8</a></td>
+      <td>3.76</td>
+      <td>647.80</td>
+      <td><a href = "https://github.com/MaxtBIT/DGSMP">PyTorch</a></td>
    </tr>
    <tr align = "center">
       <td>2021</td>
@@ -196,16 +206,6 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td>11.75</td>
       <td>447.18</td>
       <td><a href = "https://github.com/jianzhangcs/HerosNet">PyTorch</a></td>
-   </tr>
-   <tr align = "center">
-      <td>2021</td>
-      <td><a href = "https://opg.optica.org/prj/fulltext.cfm?uri=prj-9-2-B18&id=446778">PnP-HSI</a></td>
-      <td>25.67</td>
-      <td>0.70</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper8</a></td>
-      <td>1.96</td>
-      <td>≥3000</td>
-      <td><a href = "https://github.com/zsm1211/PnP-CASSI">PyTorch</a></td>
    </tr>
    <tr align = "center">
       <td>2022</td>
