@@ -239,7 +239,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    </tr>
    <tr align = "center">
       <td>2022</td>
-      <td><a href = "https://arxiv.org/abs/2204.07908">MST_Plus_Plus</a></td>
+      <td><a href = "https://arxiv.org/abs/2204.07908">MST++</a></td>
       <td>35.99</td>
       <td>0.95</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST">Link_3</a></td>
