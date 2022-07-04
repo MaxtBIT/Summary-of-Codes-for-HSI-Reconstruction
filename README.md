@@ -57,7 +57,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/7532817">GAP-TV</a></td>
       <td>24.36</td>
       <td>0.70</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Paper_1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper_2</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/Scientific-Research-Algorithm-Toolbox/SCI-algorithms/blob/master/PnP_SCI/%5Bshared%5D/ADMM_Fastdvdnet_xinyuan/dvp_linear_inv.py">Python</a></td>
@@ -65,7 +65,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>23.73</td>
       <td>0.68</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper4</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper_3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper_4</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
