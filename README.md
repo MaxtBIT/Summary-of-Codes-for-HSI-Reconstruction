@@ -32,7 +32,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>PSNR</td>
       <td>SSIM</td>
-      <td>Reference</td>
+      <td>Source</td>
       <td>Params</td>
       <td>FLOPs</td>
    </tr>
@@ -40,7 +40,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9010044">Lambda-Net</a></td>
       <td>28.53</td>
       <td>0.84</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
       <td rowspan="2">58.25</td>
       <td rowspan="2">44.59</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
@@ -48,13 +48,13 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>29.25</td>
       <td>0.89</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper1  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper2</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper4</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
       <td>30.35</td>
       <td>0.85</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
       <td rowspan="2">0.30</td>
       <td rowspan="2">20.14</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
@@ -62,13 +62,13 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>28.93</td>
       <td>0.83</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper1  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper2</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper4</a></td>
    </tr>
    <tr align = "center">
       <td><a href = "https://ieeexplore.ieee.org/document/9156942">DNU</a></td>
       <td>30.74</td>
       <td>0.86</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
       <td>4.47</td>
       <td>293.90</td>
       <td><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
@@ -77,7 +77,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2"><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">TSA-Net</a></td>
       <td>30.15</td>
       <td>0.89</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3</a></td>
       <td rowspan="2">44.25</td>
       <td rowspan="2">135.12</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/TSA-Net">PyTorch</a></td>
@@ -85,13 +85,13 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>31.46</td>
       <td>0.89</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">GAP-Net</a></td>
       <td>32.13</td>
       <td>0.92</td>
-      <td><a href = "https://arxiv.org/abs/2012.08364">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Paper5</a></td>
       <td rowspan="2">4.27</td>
       <td rowspan="2">84.08</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
@@ -99,13 +99,13 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>32.47</td>
       <td>0.93</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper6</a></td>
    </tr>
    <tr align = "center">
       <td><a href = "https://ieeexplore.ieee.org/document/9578572">DGSM</a></td>
       <td>32.63</td>
       <td>0.92</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9578572">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572">Paper7</a></td>
       <td>3.76</td>
       <td>647.80</td>
       <td><a href = "https://github.com/MaxtBIT/DGSMP">PyTorch</a></td>
