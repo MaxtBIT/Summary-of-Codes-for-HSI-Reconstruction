@@ -74,7 +74,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
    </tr>
    <tr align = "center">
-      <td rowspan="2"><a href = "">TSA-Net</a></td>
+      <td rowspan="2"><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">TSA-Net</a></td>
       <td>30.15</td>
       <td>0.89</td>
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper</a></td>
@@ -88,7 +88,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
    </tr>
    <tr align = "center">
-      <td rowspan="2"><a href = "">GAP-Net</a></td>
+      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">GAP-Net</a></td>
       <td>32.13</td>
       <td>0.92</td>
       <td><a href = "https://arxiv.org/abs/2012.08364">Paper</a></td>
@@ -102,16 +102,16 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
    </tr>
    <tr align = "center">
-      <td><a href = "">DGSM</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572">DGSM</a></td>
       <td>32.63</td>
       <td>0.92</td>
-      <td><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572">Paper</a></td>
       <td>3.76</td>
       <td>647.80</td>
       <td><a href = "https://github.com/MaxtBIT/DGSMP">PyTorch</a></td>
    </tr>
    <tr align = "center">
-      <td><a href = "">PnP-DIP-HSI</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9710184">PnP-DIP-HSI</a></td>
       <td>31.30</td>
       <td>0.90</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper</a></td>
@@ -120,7 +120,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">PyTorch</a></td>
    </tr>
    <tr align = "center">
-      <td><a href = "">HerosNet</a></td>
+      <td><a href = "https://arxiv.org/abs/2112.06238">HerosNet</a></td>
       <td>34.45</td>
       <td>0.97</td>
       <td><a href = "https://arxiv.org/abs/2112.06238">Paper</a></td>
@@ -129,7 +129,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/jianzhangcs/HerosNet">PyTorch</a></td>
    </tr>
    <tr align = "center">
-      <td><a href = "">PnP-HSI</a></td>
+      <td><a href = "https://opg.optica.org/prj/fulltext.cfm?uri=prj-9-2-B18&id=446778">PnP-HSI</a></td>
       <td>25.67</td>
       <td>0.70</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper</a></td>
