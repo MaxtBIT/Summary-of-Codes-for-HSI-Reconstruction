@@ -125,6 +125,15 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">PyTorch</a></td>
    </tr>
    <tr align = "center">
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572">DTLP</a></td>
+      <td>33.88</td>
+      <td>0.93</td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">Link_2</a></td>
+      <td>/</td>
+      <td>/</td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
       <td><a href = "https://arxiv.org/abs/2112.06238">HerosNet</a></td>
       <td>34.45</td>
       <td>0.97</td>
