@@ -36,7 +36,21 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td>Params</td>
       <td>FLOPs</td>
    </tr>
-<tr align = "center">
+   <tr align = "center">
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/4358846">TwIST</a></td>
+      <td>23.12</td>
+      <td>0.67</td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
+      <td rowspan="2">/</td>
+      <td rowspan="2">≥1000</td>
+      <td rowspan="2"><a href = "https://github.com/vbisin/Image-Restoration-Algorithm-TwIST">Python</a></td>
+   </tr>
+   <tr align = "center">
+      <td>22.44</td>
+      <td>0.70</td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3</a></td>
+   </tr>
+   <tr align = "center">
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8481592">DeSCI</a></td>
       <td>25.27</td>
       <td>0.72</td>
