@@ -227,6 +227,6 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2203.02149">Paper13</a></td>
       <td>/</td>
       <td>/</td>
-      <td><a href = "https://github.com/MaxtBIT/MST/tree/main/simulation/train_code/architecture">PyTorch</a></td>
+      <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/HDNet.py">PyTorch</a></td>
    </tr>
 </table>
