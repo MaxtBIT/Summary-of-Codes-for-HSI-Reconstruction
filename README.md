@@ -128,6 +128,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
    </tr>
    <tr align = "center">
+      <td rowspan="2">2020</td>
       <td rowspan="2"><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">TSA-Net</a></td>
       <td>31.46</td>
       <td>0.89</td>
@@ -142,6 +143,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3</a></td>
    </tr>
    <tr align = "center">
+      <td rowspan="2">2020</td>
       <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">GAP-Net</a></td>
       <td>32.13</td>
       <td>0.92</td>
@@ -156,6 +158,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2108.07739">Paper6</a></td>
    </tr>
    <tr align = "center">
+      <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9578572">DGSM</a></td>
       <td>32.63</td>
       <td>0.92</td>
@@ -165,6 +168,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/MaxtBIT/DGSMP">PyTorch</a></td>
    </tr>
    <tr align = "center">
+      <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9710184">PnP-DIP-HSI</a></td>
       <td>31.30</td>
       <td>0.90</td>
@@ -174,6 +178,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">PyTorch</a></td>
    </tr>
    <tr align = "center">
+      <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">DTLP</a></td>
       <td>33.88</td>
       <td>0.93</td>
@@ -183,6 +188,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
+      <td>2021</td>
       <td><a href = "https://arxiv.org/abs/2112.06238">HerosNet</a></td>
       <td>34.45</td>
       <td>0.97</td>
@@ -192,6 +198,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/jianzhangcs/HerosNet">PyTorch</a></td>
    </tr>
    <tr align = "center">
+      <td>2021</td>
       <td><a href = "https://opg.optica.org/prj/fulltext.cfm?uri=prj-9-2-B18&id=446778">PnP-HSI</a></td>
       <td>25.67</td>
       <td>0.70</td>
@@ -201,6 +208,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/zsm1211/PnP-CASSI">PyTorch</a></td>
    </tr>
    <tr align = "center">
+      <td>2022</td>
       <td><a href = "https://arxiv.org/abs/2111.07910">MST</a></td>
       <td>35.18</td>
       <td>0.95</td>
@@ -210,6 +218,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/caiyuanhao1998/MST">PyTorch</a></td>
    </tr>
    <tr align = "center">
+      <td>2022</td>
       <td><a href = "https://arxiv.org/abs/2108.07739">CAE-SRN</a></td>
       <td>33.26</td>
       <td>0.93</td>
@@ -219,6 +228,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/Jiamian-Wang/HSI_baseline">PyTorch</a></td>
    </tr>
    <tr align = "center">
+      <td>2022</td>
       <td><a href = "https://arxiv.org/abs/2201.05768">GAP-CCoT</a></td>
       <td>35.26</td>
       <td>0.95</td>
@@ -228,6 +238,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/ucaswangls/GAP-CCoT">PyTorch</a></td>
    </tr>
    <tr align = "center">
+      <td>2022</td>
       <td><a href = "https://arxiv.org/abs/2203.02149">HDNet</a></td>
       <td>34.34</td>
       <td>0.96</td>
