@@ -43,8 +43,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
       <td rowspan="2">58.25</td>
       <td rowspan="2">44.59</td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch</a></td>
-      <td rowspan="2"><a href = "https://github.com/xinxinmiao/lambda-net">Link</a></td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch</a><a href = "https://github.com/xinxinmiao/lambda-net">TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>29.25</td>
@@ -58,8 +57,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
       <td rowspan="2">0.30</td>
       <td rowspan="2">20.14</td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch</a></td>
-      <td rowspan="2"><a href = "https://github.com/wang-lizhi/DSSP">Link</a></td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch</a><a href = "https://github.com/wang-lizhi/DSSP">TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>28.93</td>
@@ -73,8 +71,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
       <td>4.47</td>
       <td>293.90</td>
-      <td><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">Link</a></td>
-      <td>/</td>
+      <td><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">TSA-Net</td>
@@ -84,7 +81,6 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2">44.25</td>
       <td rowspan="2">135.12</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/TSA-Net">PyTorch</a></td>
-      <td rowspan="2">/</td>
    </tr>
    <tr align = "center">
       <td>31.46</td>
@@ -99,7 +95,6 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2">4.27</td>
       <td rowspan="2">84.08</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
-      <td rowspan="2">/</td>
    </tr>
    <tr align = "center">
       <td>32.47</td>
