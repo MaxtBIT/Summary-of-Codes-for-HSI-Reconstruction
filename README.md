@@ -51,18 +51,23 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper4</a></td>
    </tr>
    <tr align = "center">
-      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
+      <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
       <td>30.35</td>
       <td>0.85</td>
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
-      <td rowspan="2">0.30</td>
-      <td rowspan="2">20.14</td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
+      <td rowspan="3">0.30</td>
+      <td rowspan="3">20.14</td>
+      <td rowspan="3"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>28.93</td>
       <td>0.83</td>
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper4</a></td>
+   </tr>
+   <tr align = "center">
+      <td>32.39</td>
+      <td>0.97</td>
+      <td><a href = "https://github.com/wang-lizhi/DSSP">Link_1</a></td>
    </tr>
    <tr align = "center">
       <td><a href = "https://ieeexplore.ieee.org/document/9156942">DNU</a></td>
