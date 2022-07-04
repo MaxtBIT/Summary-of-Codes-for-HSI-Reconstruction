@@ -75,17 +75,17 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    </tr>
    <tr align = "center">
       <td rowspan="2"><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">TSA-Net</a></td>
-      <td>30.15</td>
+      <td>31.46</td>
       <td>0.89</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
       <td rowspan="2">44.25</td>
       <td rowspan="2">135.12</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/TSA-Net">PyTorch</a></td>
    </tr>
    <tr align = "center">
-      <td>31.46</td>
+      <td>30.15</td>
       <td>0.89</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper2</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper3</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">GAP-Net</a></td>
@@ -114,7 +114,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://ieeexplore.ieee.org/document/9710184">PnP-DIP-HSI</a></td>
       <td>31.30</td>
       <td>0.90</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper8</a></td>
       <td>33.85</td>
       <td>≥3000</td>
       <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">PyTorch</a></td>
@@ -123,7 +123,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2112.06238">HerosNet</a></td>
       <td>34.45</td>
       <td>0.97</td>
-      <td><a href = "https://arxiv.org/abs/2112.06238">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2112.06238">Paper9</a></td>
       <td>11.75</td>
       <td>447.18</td>
       <td><a href = "https://github.com/jianzhangcs/HerosNet">PyTorch</a></td>
@@ -132,7 +132,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://opg.optica.org/prj/fulltext.cfm?uri=prj-9-2-B18&id=446778">PnP-HSI</a></td>
       <td>25.67</td>
       <td>0.70</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper8</a></td>
       <td>1.96</td>
       <td>≥3000</td>
       <td><a href = "https://github.com/zsm1211/PnP-CASSI">PyTorch</a></td>
@@ -141,7 +141,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2111.07910">MST</a></td>
       <td>35.18</td>
       <td>0.95</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Paper10</a></td>
       <td>2.46</td>
       <td>31.40</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST">PyTorch</a></td>
@@ -150,7 +150,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2108.07739">CAE-SRN</a></td>
       <td>33.26</td>
       <td>0.93</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper11</a></td>
       <td>1.25</td>
       <td>83.06</td>
       <td><a href = "https://github.com/Jiamian-Wang/HSI_baseline">PyTorch</a></td>
@@ -159,7 +159,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2201.05768">GAP-CCoT</a></td>
       <td>35.26</td>
       <td>0.95</td>
-      <td><a href = "https://arxiv.org/abs/2201.05768">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2201.05768">Paper12</a></td>
       <td>8.04</td>
       <td>95.60</td>
       <td><a href = "https://github.com/ucaswangls/GAP-CCoT">PyTorch</a></td>
