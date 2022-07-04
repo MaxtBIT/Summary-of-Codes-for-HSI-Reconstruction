@@ -193,8 +193,8 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td>33.88</td>
       <td>0.93</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">Link_2</a></td>
-      <td>/</td>
-      <td>/</td>
+      <td>3.16</td>
+      <td>182.98</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
@@ -223,8 +223,8 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td>34.34</td>
       <td>0.96</td>
       <td><a href = "https://arxiv.org/abs/2203.02149">Paper_11</a></td>
-      <td>/</td>
-      <td>/</td>
+      <td>2.37</td>
+      <td>159.06</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/HDNet.py">PyTorch</a></td>
    </tr>
   <tr align = "center">
@@ -253,8 +253,8 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td>36.14</td>
       <td>0.97</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">Paper_14</a></td>
-      <td>/</td>
-      <td>/</td>
+      <td>4.40</td>
+      <td>3536.64</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/BIRNAT.py">PyTorch</a></td>
    </tr>
 </table>
