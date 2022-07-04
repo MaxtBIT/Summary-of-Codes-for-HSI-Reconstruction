@@ -33,8 +33,8 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td>PSNR</td>
       <td>SSIM</td>
       <td>Source</td>
-      <td>Params</td>
-      <td>FLOPs</td>
+      <td>Params(M)</td>
+      <td>FLOPs(GMac)</td>
    </tr>
    <tr align = "center">
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/4358846">TwIST</a></td>
