@@ -5,10 +5,10 @@ Codes for the paper: **A survey of reconstruction algorithms for coded aperture 
 Python 3.6.2<br/>
 CUDA 10.0<br/>
 Torch 1.7.0<br/>
-Scipy 1.5.4<br/>
-Cupy 9.6.0<br/>
+SciPy 1.5.4<br/>
+CuPy 9.6.0<br/>
 OpenCV 4.5.4<br/>
-Numpy 1.19.5<br/>
+NumPy 1.19.5<br/>
 
 ## Usage
 1. Download this repository via git or download the [ZIP file](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/archive/refs/heads/master.zip) manually.
