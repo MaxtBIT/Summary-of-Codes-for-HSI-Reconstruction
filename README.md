@@ -43,7 +43,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
       <td rowspan="2">58.25</td>
       <td rowspan="2">44.59</td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">Link</a></td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch</a></td>
       <td rowspan="2"><a href = "https://github.com/xinxinmiao/lambda-net">Link</a></td>
    </tr>
    <tr align = "center">
@@ -58,7 +58,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper1  </a><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">  Paper2</a></td>
       <td rowspan="2">0.30</td>
       <td rowspan="2">20.14</td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">Link</a></td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch</a></td>
       <td rowspan="2"><a href = "https://github.com/wang-lizhi/DSSP">Link</a></td>
    </tr>
    <tr align = "center">
@@ -83,7 +83,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper</a></td>
       <td rowspan="2">44.25</td>
       <td rowspan="2">135.12</td>
-      <td rowspan="2"><a href = "https://github.com/mengziyi64/TSA-Net">Link</a></td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/TSA-Net">PyTorch</a></td>
       <td rowspan="2">/</td>
    </tr>
    <tr align = "center">
@@ -98,7 +98,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2012.08364">Paper</a></td>
       <td rowspan="2">4.27</td>
       <td rowspan="2">84.08</td>
-      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">Link</a></td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
       <td rowspan="2">/</td>
    </tr>
    <tr align = "center">
@@ -113,7 +113,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://openaccess.thecvf.com/content/CVPR2021/html/Huang_Deep_Gaussian_Scale_Mixture_Prior_for_Spectral_Compressive_Imaging_CVPR_2021_paper.html">Paper</a></td>
       <td>3.76</td>
       <td>647.80</td>
-      <td><a href = "https://github.com/MaxtBIT/DGSMP">Link</a></td>
+      <td><a href = "https://github.com/MaxtBIT/DGSMP">PyTorch</a></td>
       <td>/</td>
    </tr>
    <tr align = "center">
@@ -123,7 +123,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper</a></td>
       <td>33.85</td>
       <td>≥3000</td>
-      <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">Link</a></td>
+      <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">PyTorch</a></td>
       <td>/</td>
    </tr>
    <tr align = "center">
@@ -133,7 +133,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2112.06238">Paper</a></td>
       <td>11.75</td>
       <td>447.18</td>
-      <td><a href = "https://github.com/jianzhangcs/HerosNet">Link</a></td>
+      <td><a href = "https://github.com/jianzhangcs/HerosNet">PyTorch</a></td>
       <td>/</td>
    </tr>
    <tr align = "center">
@@ -143,7 +143,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper</a></td>
       <td>1.96</td>
       <td>≥3000</td>
-      <td><a href = "https://github.com/zsm1211/PnP-CASSI">Link</a></td>
+      <td><a href = "https://github.com/zsm1211/PnP-CASSI">PyTorch</a></td>
       <td>/</td>
    </tr>
    <tr align = "center">
@@ -153,7 +153,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2111.07910">Paper</a></td>
       <td>2.46</td>
       <td>31.40</td>
-      <td><a href = "https://github.com/caiyuanhao1998/MST">Link</a></td>
+      <td><a href = "https://github.com/caiyuanhao1998/MST">PyTorch</a></td>
       <td>/</td>
    </tr>
    <tr align = "center">
@@ -163,7 +163,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
       <td>1.25</td>
       <td>83.06</td>
-      <td><a href = "https://github.com/Jiamian-Wang/HSI_baseline">Link</a></td>
+      <td><a href = "https://github.com/Jiamian-Wang/HSI_baseline">PyTorch</a></td>
       <td>/</td>
    </tr>
    <tr align = "center">
@@ -173,7 +173,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2201.05768">Paper</a></td>
       <td>8.04</td>
       <td>95.60</td>
-      <td><a href = "https://github.com/ucaswangls/GAP-CCoT">Link</a></td>
+      <td><a href = "https://github.com/ucaswangls/GAP-CCoT">PyTorch</a></td>
       <td>/</td>
    </tr>
 </table>
