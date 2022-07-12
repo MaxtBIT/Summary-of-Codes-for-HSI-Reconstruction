@@ -1,4 +1,4 @@
-# Summary of Codes for HSI Reconstruction
+# Summary of Codes for CASSI Reconstruction
 
 ## Environment
 Python 3.6.2<br/>
@@ -267,3 +267,9 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/BIRNAT.py">PyTorch</a></td>
    </tr>
 </table>
+
+## Welcome
+If you think there is any false, omissions or other materials should be supplemented, please contact us!
+
+## Acknowledge
+If you think there is any false, omissions or other materials should be supplemented, please contact us!
