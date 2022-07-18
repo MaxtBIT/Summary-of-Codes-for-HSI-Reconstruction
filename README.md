@@ -179,7 +179,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2"><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">TSA-Net</a></td>
       <td>31.46</td>
       <td>0.89</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper_1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper_2</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
       <td rowspan="2">44.25</td>
       <td rowspan="2">135.12</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/TSA-Net">PyTorch</a></td>
@@ -194,7 +194,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://ieeexplore.ieee.org/document/9156942">DNU</a></td>
       <td>30.74</td>
       <td>0.86</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper_1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper_2</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
       <td>4.47</td>
       <td>293.90</td>
       <td><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
@@ -204,7 +204,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
       <td>30.35</td>
       <td>0.85</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper_1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper_2</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
       <td rowspan="3">0.30</td>
       <td rowspan="3">20.14</td>
       <td rowspan="3"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
@@ -224,7 +224,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9010044">λ-Net</a></td>
       <td>28.53</td>
       <td>0.84</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper_1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper_2</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
       <td rowspan="2">58.25</td>
       <td rowspan="2">44.59</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
@@ -239,7 +239,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8481592">DeSCI</a></td>
       <td>25.27</td>
       <td>0.72</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper_1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper_2</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/liuyang12/DeSCI">MATLAB</a></td>
@@ -254,7 +254,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/7532817">GAP-TV</a></td>
       <td>24.36</td>
       <td>0.70</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper_1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper_2</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/Scientific-Research-Algorithm-Toolbox/SCI-algorithms/blob/master/PnP_SCI/%5Bshared%5D/ADMM_Fastdvdnet_xinyuan/dvp_linear_inv.py">Python</a></td>
@@ -269,7 +269,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/4358846">TwIST</a></td>
       <td>23.12</td>
       <td>0.67</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper_1  </a><a href = "https://ieeexplore.ieee.org/document/9578572">  Paper_2</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/vbisin/Image-Restoration-Algorithm-TwIST">Python</a></td>
