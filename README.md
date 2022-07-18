@@ -167,17 +167,17 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td rowspan="2">2020</td>
       <td rowspan="2"><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">TSA-Net</a></td>
-      <td>31.46</td>
+      <td>30.15</td>
       <td>0.89</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper</a></td>
       <td rowspan="2">44.25</td>
       <td rowspan="2">135.12</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/TSA-Net">PyTorch</a></td>
    </tr>
    <tr align = "center">
-      <td>30.15</td>
+      <td>31.46</td>
       <td>0.89</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
    </tr>
    <tr align = "center">
       <td>2020</td>
@@ -207,7 +207,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>32.39</td>
       <td>0.97</td>
-      <td><a href = "https://github.com/wang-lizhi/DSSP">Link_1</a></td>
+      <td><a href = "https://github.com/wang-lizhi/DSSP">Link</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
@@ -267,7 +267,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>22.44</td>
       <td>0.70</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper_3</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a></td>
    </tr>
 </table>
 
