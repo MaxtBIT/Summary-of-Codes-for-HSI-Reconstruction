@@ -35,7 +35,6 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 To analyze the complexity, we have summarized the source codes of mainstream algorithms.  The code links are shown in the table, sorted as MATLAB, PyTorch and TensorFlow. In this stage, the size of reconstructed image is set as 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net) The parameter counts and floating-point operation counts(FLOPs) are utilized to evaluate the complexity. Note that, the FLOPs of the iterative optimization methods are not precisely evaluated. In addition, according to different reference, the average PSNR and SSIM on 10 scenes of KAIST Dataset are listed.
 
 ### Results
-<caption align = "center">Comparison of reconstruction quality and computational efficiency on KAIST Dataset</caption>
 <table align = "center">
    <caption align = "center">Comparison of reconstruction quality and computational efficiency on KAIST Dataset</caption>
    <tr align = "center">
