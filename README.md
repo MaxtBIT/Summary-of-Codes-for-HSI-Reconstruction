@@ -44,7 +44,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">BIRNAT</a></td>
       <td>36.14</td>
       <td>0.97</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">Paper_14</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">Paper</a></td>
       <td>4.40</td>
       <td>3536.64</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/BIRNAT.py">PyTorch</a></td>
@@ -54,7 +54,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2201.05768">GAP-CCoT</a></td>
       <td>35.26</td>
       <td>0.95</td>
-      <td><a href = "https://arxiv.org/abs/2201.05768">Paper_13</a></td>
+      <td><a href = "https://arxiv.org/abs/2201.05768">Paper</a></td>
       <td>8.04</td>
       <td>95.60</td>
       <td><a href = "https://github.com/ucaswangls/GAP-CCoT">PyTorch</a></td>
@@ -64,17 +64,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2204.07908">MST++</a></td>
       <td>35.99</td>
       <td>0.95</td>
-      <td><a href = "https://github.com/caiyuanhao1998/MST">Link_3</a></td>
-      <td>1.33</td>
-      <td>19.47</td>
-      <td><a href = "https://github.com/caiyuanhao1998/MST-plus-plus">PyTorch</a></td>
-   </tr>
-   <tr align = "center">
-      <td>2022</td>
-      <td><a href = "https://arxiv.org/abs/2204.07908">MST++</a></td>
-      <td>35.99</td>
-      <td>0.95</td>
-      <td><a href = "https://github.com/caiyuanhao1998/MST">Link_3</a></td>
+      <td><a href = "https://github.com/caiyuanhao1998/MST">Link</a></td>
       <td>1.33</td>
       <td>19.47</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST-plus-plus">PyTorch</a></td>
@@ -84,7 +74,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2111.07910">MST</a></td>
       <td>35.18</td>
       <td>0.95</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper_12</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Paper</a></td>
       <td>2.46</td>
       <td>31.40</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST">PyTorch</a></td>
@@ -94,7 +84,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2203.02149">HDNet</a></td>
       <td>34.34</td>
       <td>0.96</td>
-      <td><a href = "https://arxiv.org/abs/2203.02149">Paper_11</a></td>
+      <td><a href = "https://arxiv.org/abs/2203.02149">Paper</a></td>
       <td>2.37</td>
       <td>159.06</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/HDNet.py">PyTorch</a></td>
@@ -104,7 +94,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2108.07739">CAE-SRN</a></td>
       <td>33.26</td>
       <td>0.93</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper_10</a></td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
       <td>1.25</td>
       <td>83.06</td>
       <td><a href = "https://github.com/Jiamian-Wang/HSI_baseline">PyTorch</a></td>
@@ -114,7 +104,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://arxiv.org/abs/2112.06238">HerosNet</a></td>
       <td>34.45</td>
       <td>0.97</td>
-      <td><a href = "https://arxiv.org/abs/2112.06238">Paper_9</a></td>
+      <td><a href = "https://arxiv.org/abs/2112.06238">Paper</a></td>
       <td>11.75</td>
       <td>447.18</td>
       <td><a href = "https://github.com/jianzhangcs/HerosNet">PyTorch</a></td>
@@ -124,7 +114,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">DTLP</a></td>
       <td>33.88</td>
       <td>0.93</td>
-      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">Link_2</a></td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">Link</a></td>
       <td>3.16</td>
       <td>182.98</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
@@ -144,7 +134,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://ieeexplore.ieee.org/document/9710184">PnP-DIP-HSI</a></td>
       <td>31.30</td>
       <td>0.90</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper_7</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper</a></td>
       <td>33.85</td>
       <td>≥3000</td>
       <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">PyTorch</a></td>
@@ -154,7 +144,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://opg.optica.org/prj/fulltext.cfm?uri=prj-9-2-B18&id=446778">PnP-HSI</a></td>
       <td>25.67</td>
       <td>0.70</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper_7</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Reproduction</a></td>
       <td>1.96</td>
       <td>≥3000</td>
       <td><a href = "https://github.com/zsm1211/PnP-CASSI">PyTorch</a></td>
@@ -164,7 +154,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">GAP-Net</a></td>
       <td>32.13</td>
       <td>0.92</td>
-      <td><a href = "https://arxiv.org/abs/2012.08364">Paper_5</a></td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Paper</a></td>
       <td rowspan="2">4.27</td>
       <td rowspan="2">84.08</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
@@ -172,7 +162,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>32.47</td>
       <td>0.93</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper_6</a></td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Reproduction</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2020</td>
