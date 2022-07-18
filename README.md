@@ -20,15 +20,23 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 2. Create the environment and ensure the version.
 3. Select a method in **cal_params_FLOPs.py**. Then, run this file to get params_count and FLOPs.
 
-## Results
-### ICVL
+## ICVL Dataset
+### Configuration
 
-### Harvard
+### Results
 
-### CAVE&KAIST
+## Harvard Dataset
+### Configuration
+
+### Results
+
+## CAVE&KAIST Datasets
+### Configuration
 To analyze the complexity, we have summarized the source codes of mainstream algorithms.  The code links are shown in the table, sorted as MATLAB, PyTorch and TensorFlow. In this stage, the size of reconstructed image is set as 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net) The parameter counts and floating-point operation counts(FLOPs) are utilized to evaluate the complexity. Note that, the FLOPs of the iterative optimization methods are not precisely evaluated. In addition, according to different reference, the average PSNR and SSIM on 10 scenes of KAIST Dataset are listed.
 
+### Results
 <table align = "center">
+   <caption>Comparison of reconstruction quality and computational efficiency on KAIST Dataset</caption>
    <tr align = "center">
       <td rowspan="2">Year</td>
       <td rowspan="2">Method</td>
