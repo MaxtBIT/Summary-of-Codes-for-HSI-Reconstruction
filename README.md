@@ -36,7 +36,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
 
 ### Results
 <table align = "center">
-   <caption align = "center">Comparison of reconstruction quality and computational efficiency on KAIST Dataset</caption>
+   <caption align = "center">                      Comparison of reconstruction quality and computational efficiency on KAIST Dataset</caption>
    <tr align = "center">
       <td rowspan="2">Year</td>
       <td rowspan="2">Method</td>
