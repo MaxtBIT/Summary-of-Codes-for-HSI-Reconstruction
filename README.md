@@ -134,7 +134,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
       <td><a href = "https://ieeexplore.ieee.org/document/9578572">DGSMP</a></td>
       <td>32.63</td>
       <td>0.92</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9578572">Paper_8</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572">Paper</a></td>
       <td>3.76</td>
       <td>647.80</td>
       <td><a href = "https://github.com/MaxtBIT/DGSMP">PyTorch</a></td>
@@ -187,7 +187,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>30.15</td>
       <td>0.89</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper_3</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper</a></td>
    </tr>
    <tr align = "center">
       <td>2020</td>
@@ -212,7 +212,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>28.93</td>
       <td>0.83</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper_3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper_4</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a> </td>
    </tr>
    <tr align = "center">
       <td>32.39</td>
@@ -232,7 +232,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>29.25</td>
       <td>0.89</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper_3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper_4</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a> </td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
@@ -247,7 +247,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>25.86</td>
       <td>0.79</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper_3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper_4</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a> </td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2016</td>
@@ -262,7 +262,7 @@ To analyze the complexity, we have summarized the source codes of mainstream alg
    <tr align = "center">
       <td>23.73</td>
       <td>0.68</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper_3  </a><a href = "https://arxiv.org/abs/2112.06238">  Paper_4</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a> </td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2007</td>
