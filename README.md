@@ -118,7 +118,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
       <td rowspan="2">111</td>
       <td rowspan="2">111</td>
-      <td rowspan="2"><a href = "https://github.com/MaxtBIT/HyperReconNet">PyTorch</a></td>
+      <td rowspan="2"><a href = "https://github.com/MaxtBIT/HyperReconNet">PyTorch </a><a href = "https://github.com/ColinTaoZhang/HyperReconNet"> Caffe</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
@@ -274,7 +274,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>Private</td>
    </tr>
    <tr align = "center">
-      <td>2008</td>
+      <td>2007</td>
       <td><a href = "https://ieeexplore.ieee.org/document/4407762">GPSR</a></td>
       <td>512*512</td>
       <td>24.560</td>
