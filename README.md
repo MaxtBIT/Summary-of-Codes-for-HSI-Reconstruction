@@ -23,7 +23,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 3. Select a method in **cal_params_FLOPs.py**. Then, run this file to get params_count and FLOPs.
 
 ## ICVL Dataset
-
+<img src="./figures/ICVL.jpg">
 [Click here](http://icvl.cs.bgu.ac.il/hyperspectral/) to download ICVL Dataset.
 ### Configuration
 
