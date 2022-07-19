@@ -66,7 +66,7 @@ class SpectralPriorNet(nn.Module):
         super(SpectralPriorNet, self).__init__()
         # local branch layers
         self.stem_layer = nn.Sequential(
-            nn.Conv2d(28,64,7,1,3).apply(weights_init_kaiming),
+            nn.Conv2d(31,64,7,1,3).apply(weights_init_kaiming), #(28,64,7,1,3) for KAIST
             nn.ReLU(),
             nn.Conv2d(64,64,1,1,0).apply(weights_init_kaiming),
             nn.ReLU(),
@@ -168,7 +168,7 @@ class DNU(nn.Module):
         # only to calculate the parameters and FLOPs, modified by MaxtBIT
         g = f
         Phi = torch.Tensor([1.0]).unsqueeze(1).unsqueeze(1).unsqueeze(1)
-        Phi = Phi.expand([1, 28, 256, 256]).cuda()
+        Phi = Phi.expand([1, 28, 256, 256]).cuda()  #[1, 31, 512, 512] for ICVL/Harvard
         PhiPhiT  = torch.Tensor([1.0]).unsqueeze(1).unsqueeze(1)
         PhiPhiT = PhiPhiT.expand([1, 256, 256]).cuda()
 

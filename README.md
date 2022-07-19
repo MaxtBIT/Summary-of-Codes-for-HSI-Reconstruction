@@ -49,8 +49,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>38.900*</td>
       <td>0.980</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Paper</a></td>
-      <td>111</td>
-      <td>111</td>
+      <td>/</td>
+      <td>/</td>
       <td>Private</td>
    </tr>
    <tr align = "center">
@@ -60,8 +60,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>36.571</td>
       <td>0.995</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Paper</a></td>
-      <td>111</td>
-      <td>111</td>
+      <td>/</td>
+      <td>/</td>
       <td>Private</td>
    </tr>
    <tr align = "center">
@@ -71,8 +71,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>34.530</td>
       <td>0.977</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
-      <td>111</td>
-      <td>111</td>
+      <td>3.20</td>
+      <td>185.47</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
@@ -82,8 +82,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>34.270</td>
       <td>0.991</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9156942">Paper</a></td>
-      <td rowspan="2">111</td>
-      <td rowspan="2">111</td>
+      <td rowspan="2">4.21</td>
+      <td rowspan="2">1104.96</td>
       <td rowspan="2"><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
    </tr>
    <tr align = "center">
@@ -99,14 +99,15 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>39.670*</td>
       <td>0.979</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
-      <td rowspan="2">111</td>
-      <td rowspan="2">111</td>
+      <td rowspan="2">0.334</td>
+      <td>22.42</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
       <td>34.130</td>
       <td>0.992</td>
+      <td>89.68</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Paper</a></td>
    </tr>
    <tr align = "center">
@@ -116,14 +117,15 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>38.430*</td>
       <td>0.972</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
-      <td rowspan="2">111</td>
-      <td rowspan="2">111</td>
+      <td rowspan="2">3.86</td>
+      <td>393.12</td>
       <td rowspan="2"><a href = "https://github.com/MaxtBIT/HyperReconNet">PyTorch </a><a href = "https://github.com/ColinTaoZhang/HyperReconNet"> Caffe</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
       <td>32.363</td>
       <td>0.986</td>
+      <td>1572.48</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8552450">Paper</a></td>
    </tr>
       <tr align = "center">
@@ -133,14 +135,15 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>29.006</td>
       <td>0.946</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
-      <td rowspan="2">111</td>
-      <td rowspan="2">111</td>
+      <td rowspan="2">58.26</td>
+      <td>44.82</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
       <td>28.850</td>
       <td>0.973</td>
+      <td>179.28</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduction</a></td>
    </tr>
    <tr align = "center">
@@ -161,8 +164,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>30.498</td>
       <td>0.947</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
-      <td rowspan="2">111</td>
-      <td rowspan="2">111</td>
+      <td rowspan="2">/</td>
+      <td rowspan="2">/</td>
       <td rowspan="2"><a href = "https://github.com/jianzhangcs/ISTA-Net-PyTorch">PyTorch </a><a href = "https://github.com/jianzhangcs/ISTA-Net"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
@@ -178,8 +181,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>28.068</td>
       <td>0.923</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
-      <td rowspan="2">111</td>
-      <td rowspan="2">111</td>
+      <td rowspan="2">/</td>
+      <td rowspan="2">/</td>
       <td rowspan="2"><a href = "https://github.com/KAIST-VCLAB/deepcassi">TensorFlow</a></td>
    </tr>
    <tr align = "center">
@@ -212,8 +215,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>28.446</td>
       <td>0.934</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
-      <td rowspan="3">111</td>
-      <td rowspan="3">111</td>
+      <td rowspan="3">0.332</td>
+      <td rowspan="2">21.73</td>
       <td rowspan="3"><a href = "https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py">PyTorch</a></td>
    </tr>
    <tr align = "center">
@@ -226,6 +229,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>512*512</td>
       <td>29.475</td>
       <td>0.973</td>
+      <td>86.91</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
    </tr>  
    <tr align = "center">

@@ -2,49 +2,48 @@ import argparse
 import time
 import numpy as np
 from torch import save
-from os import path
+from os import path as path
 import cv2
-
-# smallest positive float number
-FLT_MIN = float(np.finfo(np.float32).eps)
 
 # function for parsing input arguments
 def parse_arg():
     parser = argparse.ArgumentParser(description='train.py')
-    parser.add_argument('-mode', type=str, default='paper', help="ICVL/Havard: paper, CAVE/KAIST: cave") # set the mode according datasets
-    # dataset settings
+    parser.add_argument('-mode', type=str, default="optim", help="baseline: random mask, optim: learnable mask")
+    # training settings
     parser.add_argument('-gpuid', type=int, default=0)
-    parser.add_argument('-batch_size', type=int, default=64)  
-    parser.add_argument('-epochs', type=int, default=400)
-    parser.add_argument('-batch_num', type=int, default=170)  # the number of batches for each .h5 file
-    parser.add_argument('-report_every', type=int, default=50)   # report log after x batches
-    parser.add_argument('-train_len', type=int, default=5) # get the number of .h5 files
-    parser.add_argument('-valid_len', type=int, default=5)
+    parser.add_argument('-batch_size', type=int, default=128)  
+    parser.add_argument('-epochs', type=int, default=100)
+    parser.add_argument('-batch_num', type=int, default=118)  # the number of batches for each .h5 file
+    parser.add_argument('-report_every', type=int, default=59)   # report log after x batches
+    parser.add_argument('-train_len', type=int, default=2) # get the number of .h5 files
+    parser.add_argument('-valid_len', type=int, default=2)
     # paths
     parser.add_argument('-save_dir', type=str, default='./model/')
     parser.add_argument('-save_log', type=str, default='./data_log/')
     parser.add_argument('-save_loss', type=str, default='./graph_log/')
-    parser.add_argument('-pretrained_path', type=str, default='./pretrained_model/model_Harvard.pth', help="havard: model_Harvard, cave: model_CAVE_real/binary.pth") # set the path of the pre-trained model
-    parser.add_argument('-trainset_path', type=str, default='./data/Harvard_train/', help="havard: ./data/Harvard_train/, cave: ./data/CAVE_train/") # set the path of the trainset
-    parser.add_argument('-testset_path', type=str, default='./data/Harvard_test/', help="havard: ./data/Harvard_test/, kaist: ./data/KAIST_test/") # set the path of the testset
+    parser.add_argument('-pretrained_path', type=str, default='./pretrained_model/model_Harvard.pth', help="icvl:model_ICVL.pth, havard: model_Harvard.pth, cave: model_CAVE_baseline/optim.pth") # set the path of the pre-trained model
+    parser.add_argument('-trainset_path', type=str, default='./data/Harvard_train/', help="icvl: ./data/ICVL_train/, havard: ./data/Harvard_train/, cave: ./data/CAVE_train/") # set the path of the trainset
+    parser.add_argument('-testset_path', type=str, default='./data/Harvard_test/', help="icvl: ./data/ICVL_test/, havard: ./data/Harvard_test/, kaist: ./data/KAIST_test/") # set the path of the testset
     # model settings
     parser.add_argument('-save_name', type=str, default='trained_model')   
-    parser.add_argument('-pretrained', type=bool, default=False) # only used for coupled routing functions
-    parser.add_argument('-blocksize', type=int, default=256) # set the blocksize for network
-    parser.add_argument('-channel', type=int, default=31, help="icvl/havard: 31, cave: 28") #set channel = 28 for CAVE/KAIST datasets
-    parser.add_argument('-rank', type=int, default=4) # set the value of rank for network
-    parser.add_argument('-phase', type=int, default=11) # set the value of rank for network
-    # Optimizer settings
-    parser.add_argument('-optim_type', type=str, default='adam')
-    parser.add_argument('-lr', type=float, default=0.0001)
+    parser.add_argument('-pretrained', type=bool, default=False) # used for loading the pre-trained model
+    parser.add_argument('-channel', type=int, default=31, help="ICVL/Havard: 31, CAVE: 28") 
+    parser.add_argument('-patch_size', type=int, default=64) # get the size of patches
+    # optimizer settings
+    parser.add_argument('-optim_type', type=str, default='adam', help="adam or sgd")
+    parser.add_argument('-lr', type=float, default=0.0001, help="adam:0.0001, sgd: 0.05")
     parser.add_argument('-weight_decay', type=float, default=0)
     parser.add_argument('-momentum', type=float, default=0.9, help="sgd: 0.9")
     # reduce the learning rate after each milestone
-    parser.add_argument('-milestones', type=list, default=[10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200,210,220,230,240,250,260,270,280,290,300,310,320,330,340,350,360,370,380,390])
+    parser.add_argument('-milestones', type=list, default=[20,40,60,80])
     # how much to reduce the learning rate
-    parser.add_argument('-gamma', type=float, default=0.95)
+    parser.add_argument('-gamma', type=float, default=0.1)
+
     opt = parser.parse_args()
     return opt
+
+# smallest positive float number
+FLT_MIN = float(np.finfo(np.float32).eps)
 
 # the function for model saving
 def get_save_dir(opt, str_type=None):
@@ -54,14 +53,18 @@ def get_save_dir(opt, str_type=None):
     save_name += '_'
     save_name += time.asctime(time.localtime(time.time()))
     save_name += '.pth'
+
     return save_name
 
 def save_model(model, opt):
+
     save_name = get_save_dir(opt)
-    save(model.state_dict(), save_name)
+    save(model, save_name)
+
     return
 
 def Cal_mse(im1, im2):
+
     return np.mean(np.square(im1 - im2), dtype=np.float64)
 
 # calculate the peak signal-to-noise ratio (PSNR)

@@ -1,5 +1,8 @@
+from models.HSCNN.HSCNN import HSCNN
+from models.ISTA_Net.Train_CS_ISTA_Net import ISTANet
 from models.Lambda_Net.Lambda import LambdaNet
 from models.DSSP.DeepSSPrior import DeepSSPrior
+from models.HyperReconNet.model import prepare_model
 from models.DNU.model import DNU
 from models.TSA_Net.models import TSA_Net
 from models.GAP_Net.models import GAP_net
@@ -16,26 +19,43 @@ from models.GAP_CCoT.gap_network import GAP_CCoT
 from models.BIRNAT.BIRNAT import BIRNAT
 from ptflops import get_model_complexity_info
 
-#options: Lambda_Net DSSP DNU TSA_Net GAP_Net PnP_HSI PnP_DIP_HSI DGSMP DTLP HerosNet  CAE_SRN HDNet MST MST_Plus_Plus GAP_CCoT BIRNAT
-method = 'Lambda_Net' # select the method
+#options: HSCNN ISTA_Net Lambda_Net DSSP HyperReconNet DNU TSA_Net GAP_Net PnP_HSI PnP_DIP_HSI DGSMP DTLP HerosNet  CAE_SRN HDNet MST MST_Plus_Plus GAP_CCoT BIRNAT
+method = 'ISTA_Net' # select the method
+
+# citied pytorch version by https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py
+if method == 'HSCNN':
+    model = HSCNN(1, 31, activation='relu').cuda()
+    flops, params = get_model_complexity_info(model, (1, 512, 512), True, True)
+
+# citied tensorflow version by https://github.com/xinxinmiao/lambda-net
+# citied pytorch version by https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py
+elif method == 'ISTA_Net':
+    model = ISTANet(LayerNo = 9).cuda()
+    flops, params = get_model_complexity_info(model, (33, 33), True, True)
 
 # citied tensorflow version by https://github.com/xinxinmiao/lambda-net
 # citied pytorch version by https://github.com/mlplab/Lambda
-if method == 'Lambda_Net':
-    model = LambdaNet(28, 28).cuda()
-    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True)
+elif method == 'Lambda_Net':
+    model = LambdaNet(31, 31).cuda() #(28, 28) for KAIST
+    flops, params = get_model_complexity_info(model, (31, 512, 512), True, True)  #(28, 256, 256) for KAIST
 
 # citied tensorflow version by https://github.com/wang-lizhi/DSSP
 # citied pytorch version by https://github.com/mlplab/Lambda
 elif method == 'DSSP': 
-    model = DeepSSPrior(28, 28).cuda()
-    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True)
+    model = DeepSSPrior(31, 31).cuda()  #(28, 28) for KAIST
+    flops, params = get_model_complexity_info(model, (31, 512, 512), True, True)  #(28, 256, 256) for KAIST
+
+# citied Caffe version by https://github.com/ColinTaoZhang/HyperReconNet
+# citied pytorch version by https://github.com/MaxtBIT/HyperReconNet
+elif method == 'HyperReconNet': 
+    model = prepare_model().cuda()
+    flops, params = get_model_complexity_info(model, (64, 64, 31), True, True) #Expand the FLOPs by 16 times.
 
 # citied pytorch version by https://github.com/wang-lizhi/DeepNonlocalUnrolling
 elif method == 'DNU': 
-    model = DNU(28, K=10)
-    #If out of memory, the input size can be reduced to 128*182. Then, expand the FLOPs by 4 times.
-    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True)
+    model = DNU(28, K=10)   #(31, K=10) for ICVL/Harvard
+    #If out of memory, the input size can be reduced to 128*128*28. Then, expand the FLOPs by 4 times.
+    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True) #(31, 512, 512) for ICVL/Harvard
 
 # citied pytorch version by https://github.com/mengziyi64/TSA-Net
 elif method == 'TSA_Net': 
@@ -66,7 +86,7 @@ elif method == 'DGSMP':
 # citied pytorch version by https://github.com/wang-lizhi/DTLP_Pytorch
 elif method == 'DTLP': 
     model = ReconNet().cuda()
-    flops, params = get_model_complexity_info(model, (256, 256, 28), True, True)
+    flops, params = get_model_complexity_info(model, (256, 256, 31), True, True)  #(256, 256, 28) for KAIST
 
 # citied pytorch version by https://github.com/jianzhangcs/HerosNet
 elif method == 'HerosNet': 

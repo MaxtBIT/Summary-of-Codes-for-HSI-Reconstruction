@@ -148,8 +148,9 @@ class ReconNet(nn.Module):
     def forward(self, x):
 
         # only to calculate the parameters and FLOPs, modified by MaxtBIT
+        opt = utils.parse_arg()
         Cu = torch.Tensor([1.0]).unsqueeze(1).unsqueeze(1).unsqueeze(1)
-        Cu = Cu.expand([1, 256, 256, 28]).cuda()
+        Cu = Cu.expand([1, 256, 256, opt.channel]).cuda()
 
         xt = x
         for stage in range(self.phase):
