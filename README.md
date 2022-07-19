@@ -94,20 +94,20 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
-      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">DSSP</a></td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
       <td>256*256</td>
       <td>39.670*</td>
       <td>0.979</td>
-      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
       <td rowspan="2">111</td>
       <td rowspan="2">111</td>
-      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
       <td>34.130</td>
       <td>0.992</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Paper</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
