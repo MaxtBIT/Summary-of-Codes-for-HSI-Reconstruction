@@ -500,7 +500,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/8265278">HSCNN</a></td>
       <td>256*256</td>
       <td>27.603</td>
-      <td>0.934</td>
+      <td>0.895</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td rowspan="3">0.332</td>
       <td rowspan="2">21.73</td>
@@ -508,14 +508,14 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td>256*256</td>
-      <td>36.640*</td>
-      <td>0.963</td>
+      <td>35.090*</td>
+      <td>0.936</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
    </tr>  
    <tr align = "center">
       <td>512*512</td>
-      <td>29.475</td>
-      <td>0.973</td>
+      <td>28.548</td>
+      <td>0.944</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
       <td>86.91</td>
    </tr>  
@@ -523,8 +523,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td rowspan="3">2016</td>
       <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/7780774">LRMA</a></td>
       <td>256*256</td>
-      <td>29.793</td>
-      <td>0.940</td>
+      <td>30.499</td>
+      <td>0.930</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td rowspan="3">/</td>
       <td rowspan="3">≥1000</td>
@@ -532,22 +532,22 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td>512*512</td>
-      <td>29.160</td>
-      <td>0.964</td>
+      <td>29.680</td>
+      <td>0.952</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
    </tr>  
    <tr align = "center">
       <td>512*512</td>
-      <td>29.975</td>
-      <td>0.972</td>
+      <td>30.113</td>
+      <td>0.957</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9356383">Reproduction</a></td>
    </tr>  
    <tr align = "center">
       <td>2016</td>
       <td><a href = "https://ieeexplore.ieee.org/document/7328255">AMP</a></td>
       <td>512*512</td>
-      <td>26.770</td>
-      <td>0.947</td>
+      <td>26.670</td>
+      <td>0.935</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
       <td>/</td>
       <td>≥1000</td>
@@ -557,8 +557,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>2011</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8186925">ADMM</a></td>
       <td>512*512</td>
-      <td>26.470</td>
-      <td>0.941</td>
+      <td>26.350</td>
+      <td>0.924</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8552450">Reproduction</a></td>
       <td>/</td>
       <td>≥1000</td>
@@ -568,8 +568,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>2007</td>
       <td><a href = "https://ieeexplore.ieee.org/document/4407762">GPSR</a></td>
       <td>512*512</td>
-      <td>24.560</td>
-      <td>0.909</td>
+      <td>24.960</td>
+      <td>0.907</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
       <td>/</td>
       <td>≥1000</td>
@@ -579,8 +579,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td rowspan="2">2007</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/4358846">TwIST</a></td>
       <td>256*256</td>
-      <td>25.442</td>
-      <td>0.906</td>
+      <td>26.228</td>
+      <td>0.889</td>
       <td> <a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
@@ -588,8 +588,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td>512*512</td>
-      <td>26.155</td>
-      <td>0.936</td>
+      <td>27.163</td>
+      <td>0.924</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
    </tr>
 </table>
