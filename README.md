@@ -107,8 +107,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>512*512</td>
       <td>34.130</td>
       <td>0.992</td>
-      <td>89.68</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Paper</a></td>
+      <td>89.68</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
@@ -125,8 +125,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>512*512</td>
       <td>32.363</td>
       <td>0.986</td>
-      <td>1572.48</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8552450">Paper</a></td>
+      <td>1572.48</td>
    </tr>
       <tr align = "center">
       <td rowspan="2">2019</td>
