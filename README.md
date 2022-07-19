@@ -44,6 +44,28 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td>2021</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">DRAN</a></td>
+      <td>256*256</td>
+      <td>38.90*</td>
+      <td>0.98</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td>111</td>
+      <td>111</td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td>2021</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">DEIL</a></td>
+      <td>512*512</td>
+      <td>36.57</td>
+      <td>0.99</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td>111</td>
+      <td>111</td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">DTLP</a></td>
       <td>256*256</td>
       <td>34.53</td>
@@ -53,7 +75,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>111</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
    </tr>
-      <tr align = "center">
+   <tr align = "center">
       <td rowspan="2">2020</td>
       <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">DNU</a></td>
       <td>512*512</td>
