@@ -44,14 +44,14 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td>2021</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">DRAN</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">DRAN</a></td>
       <td>256*256</td>
       <td>38.900*</td>
       <td>0.980</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Paper</a></td>
       <td>111</td>
       <td>111</td>
-      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+      <td>Private</td>
    </tr>
    <tr align = "center">
       <td>2021</td>
