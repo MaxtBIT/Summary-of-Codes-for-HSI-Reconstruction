@@ -81,7 +81,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>512*512</td>
       <td>34.270</td>
       <td>0.991</td>
-      <td><a href = "[https://arxiv.org/abs/2012.08364](https://ieeexplore.ieee.org/document/9156942)">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9156942">Paper</a></td>
       <td rowspan="2">111</td>
       <td rowspan="2">111</td>
       <td rowspan="2"><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
