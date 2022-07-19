@@ -93,6 +93,97 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td><a href = "https://arxiv.org/abs/2108.07739">Reproduction</a></td>
    </tr>
    <tr align = "center">
+      <td rowspan="2">2019</td>
+      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">HyperReconNet</a></td>
+      <td>256*256</td>
+      <td>38.43</td>
+      <td>0.97</td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td rowspan="2">111</td>
+      <td rowspan="2">111</td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>32.36</td>
+      <td>0.99</td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">2019</td>
+      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">DSSP</a></td>
+      <td>256*256</td>
+      <td>39.670*</td>
+      <td>0.979</td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td rowspan="2">111</td>
+      <td rowspan="2">111</td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>34.130</td>
+      <td>0.992</td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">2019</td>
+      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">λ-Net</a></td>
+      <td>256*256</td>
+      <td>29.006</td>
+      <td>0.946</td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td rowspan="2">111</td>
+      <td rowspan="2">111</td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>28.850</td>
+      <td>0.973</td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+   </tr>
+   <tr align = "center">
+      <td>2019</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">DTLR</a></td>
+      <td>256*256</td>
+      <td>30.400</td>
+      <td>0.943</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td>111</td>
+      <td>111</td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">2019</td>
+      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">ISTA-Net</a></td>
+      <td>256*256</td>
+      <td>30.498</td>
+      <td>0.947</td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td rowspan="2">111</td>
+      <td rowspan="2">111</td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>31.730</td>
+      <td>0.984</td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+   </tr>   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <tr align = "center">
       <td rowspan="2">2007</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/4358846">TwIST</a></td>
       <td>256*256</td>
