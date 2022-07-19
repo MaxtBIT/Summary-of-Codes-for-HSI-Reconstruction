@@ -46,8 +46,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">DRAN</a></td>
       <td>256*256</td>
-      <td>38.90*</td>
-      <td>0.98</td>
+      <td>38.900*</td>
+      <td>0.980</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
       <td>111</td>
       <td>111</td>
@@ -57,8 +57,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">DEIL</a></td>
       <td>512*512</td>
-      <td>36.57</td>
-      <td>0.99</td>
+      <td>36.571</td>
+      <td>0.995</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
       <td>111</td>
       <td>111</td>
@@ -68,8 +68,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">DTLP</a></td>
       <td>256*256</td>
-      <td>34.53</td>
-      <td>0.98</td>
+      <td>34.530</td>
+      <td>0.977</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
       <td>111</td>
       <td>111</td>
@@ -79,8 +79,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td rowspan="2">2020</td>
       <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">DNU</a></td>
       <td>512*512</td>
-      <td>34.27</td>
-      <td>0.99</td>
+      <td>34.270</td>
+      <td>0.991</td>
       <td><a href = "https://arxiv.org/abs/2012.08364">Paper</a></td>
       <td rowspan="2">111</td>
       <td rowspan="2">111</td>
@@ -88,8 +88,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td>512*512</td>
-      <td>33.78</td>
-      <td>0.99</td>
+      <td>33.784</td>
+      <td>0.991</td>
       <td><a href = "https://arxiv.org/abs/2108.07739">Reproduction</a></td>
    </tr>
    <tr align = "center">
@@ -251,21 +251,45 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>0.972</td>
       <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
    </tr>  
-   
-   
-   
-   
-   
-   
-   
-   
-   
    <tr align = "center">
+      <td>2016</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">AMP</a></td>
+      <td>512*512</td>
+      <td>26.770</td>
+      <td>0.947</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td>111</td>
+      <td>111</td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td>2011</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">ADMM</a></td>
+      <td>512*512</td>
+      <td>26.470</td>
+      <td>0.941</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td>111</td>
+      <td>111</td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td>2008</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">GPSR</a></td>
+      <td>512*512</td>
+      <td>24.560</td>
+      <td>0.909</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td>111</td>
+      <td>111</td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+   </tr>
+      <tr align = "center">
       <td rowspan="2">2007</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/4358846">TwIST</a></td>
       <td>256*256</td>
-      <td>25.44</td>
-      <td>0.91</td>
+      <td>25.442</td>
+      <td>0.906</td>
       <td> <a href = "https://ieeexplore.ieee.org/document/9578572">Reproduction</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
@@ -273,8 +297,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td>512*512</td>
-      <td>26.16</td>
-      <td>0.94</td>
+      <td>26.155</td>
+      <td>0.936</td>
       <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a></td>
    </tr>
 </table>
