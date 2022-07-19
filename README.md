@@ -311,6 +311,288 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 ### Configuration
 
 ### Results
+<table align = "center">
+   <caption>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison of reconstruction quality and computational efficiency on Harvard Dataset</caption>
+   <tr align = "center">
+      <td rowspan="2">Year</td>
+      <td rowspan="2">Method</td>
+      <!-- <td colspan="1"></td> -->
+      <td colspan="4">Performance</td>
+      <td colspan="2">Complexity</td>  
+      <td rowspan="2">Code Link</td>  
+   </tr>
+   <tr align = "center">
+      <td>Size</td>
+      <td>PSNR</td>
+      <td>SSIM</td>
+      <td>Source</td>
+      <td>Params(M)</td>
+      <td>FLOPs(GMac)</td>
+   </tr>
+   <tr align = "center">
+      <td>2021</td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">DRAN</a></td>
+      <td>256*256</td>
+      <td>35.690*</td>
+      <td>0.945</td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Paper</a></td>
+      <td>/</td>
+      <td>/</td>
+      <td>Private</td>
+   </tr>
+   <tr align = "center">
+      <td>2021</td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">DEIL</a></td>
+      <td>512*512</td>
+      <td>34.052</td>
+      <td>0.984</td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Paper</a></td>
+      <td>/</td>
+      <td>/</td>
+      <td>Private</td>
+   </tr>
+   <tr align = "center">
+      <td>2021</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">DTLP</a></td>
+      <td>256*256</td>
+      <td>32.433</td>
+      <td>0.941</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td>3.20</td>
+      <td>185.47</td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">2020</td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9156942">DNU</a></td>
+      <td>512*512</td>
+      <td>32.710</td>
+      <td>0.978</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9156942">Paper</a></td>
+      <td rowspan="2">4.21</td>
+      <td rowspan="2">1104.96</td>
+      <td rowspan="2"><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>32.550</td>
+      <td>0.977</td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduction</a></td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">2019</td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
+      <td>256*256</td>
+      <td>37.620*</td>
+      <td>0.955</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
+      <td rowspan="2">0.334</td>
+      <td>22.42</td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>32.840</td>
+      <td>0.979</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Paper</a></td>
+      <td>89.68</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">2019</td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8552450">HyperReconNet</a></td>
+      <td>256*256</td>
+      <td>36.040*</td>
+      <td>0.938</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
+      <td rowspan="2">3.86</td>
+      <td>393.12</td>
+      <td rowspan="2"><a href = "https://github.com/MaxtBIT/HyperReconNet">PyTorch </a><a href = "https://github.com/ColinTaoZhang/HyperReconNet"> Caffe</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>30.341</td>
+      <td>0.964</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Paper</a></td>
+      <td>1572.48</td>
+   </tr>
+      <tr align = "center">
+      <td rowspan="2">2019</td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9010044">λ-Net</a></td>
+      <td>256*256</td>
+      <td>29.373</td>
+      <td>0.909</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td rowspan="2">58.26</td>
+      <td>44.82</td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>29.279</td>
+      <td>0.950</td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduction</a></td>
+      <td>179.28</td>
+   </tr>
+   <tr align = "center">
+      <td>2019</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9008805">DTLR</a></td>
+      <td>256*256</td>
+      <td>31.136</td>
+      <td>0.932</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td>/</td>
+      <td>≥1000</td>
+      <td>Private</td>
+   </tr>
+   <tr align = "center">
+      <td rowspan="2">2018</td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8578294">ISTA-Net</a></td>
+      <td>256*256</td>
+      <td>29.870</td>
+      <td>0.913</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td rowspan="2">/</td>
+      <td rowspan="2">/</td>
+      <td rowspan="2"><a href = "https://github.com/jianzhangcs/ISTA-Net-PyTorch">PyTorch </a><a href = "https://github.com/jianzhangcs/ISTA-Net"> TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>31.130</td>
+      <td>0.967</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+   </tr>   
+   <tr align = "center">
+      <td rowspan="2">2017</td>
+      <td rowspan="2"><a href = "https://dl.acm.org/doi/10.1145/3130800.3130810">Autoencoder</a></td>
+      <td>256*256</td>
+      <td>29.205</td>
+      <td>0.912</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td rowspan="2">/</td>
+      <td rowspan="2">/</td>
+      <td rowspan="2"><a href = "https://github.com/KAIST-VCLAB/deepcassi">TensorFlow</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>30.300</td>
+      <td>0.952</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+   </tr>  
+   <tr align = "center">
+      <td rowspan="2">2017</td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/7676344">3DNSR</a></td>
+      <td>256*256</td>
+      <td>28.638</td>
+      <td>0.903</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td rowspan="2">/</td>
+      <td rowspan="2">≥1000</td>
+      <td rowspan="2">Private</td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>28.508</td>
+      <td>0.940</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+   </tr>  
+   <tr align = "center">
+      <td rowspan="3">2017</td>
+      <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/8265278">HSCNN</a></td>
+      <td>256*256</td>
+      <td>27.603</td>
+      <td>0.934</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td rowspan="3">0.332</td>
+      <td rowspan="2">21.73</td>
+      <td rowspan="3"><a href = "https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py">PyTorch</a></td>
+   </tr>
+   <tr align = "center">
+      <td>256*256</td>
+      <td>36.640*</td>
+      <td>0.963</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
+   </tr>  
+   <tr align = "center">
+      <td>512*512</td>
+      <td>29.475</td>
+      <td>0.973</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td>86.91</td>
+   </tr>  
+   <tr align = "center">
+      <td rowspan="3">2016</td>
+      <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/7780774">LRMA</a></td>
+      <td>256*256</td>
+      <td>29.793</td>
+      <td>0.940</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td rowspan="3">/</td>
+      <td rowspan="3">≥1000</td>
+      <td rowspan="3">Private</td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>29.160</td>
+      <td>0.964</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+   </tr>  
+   <tr align = "center">
+      <td>512*512</td>
+      <td>29.975</td>
+      <td>0.972</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9356383">Reproduction</a></td>
+   </tr>  
+   <tr align = "center">
+      <td>2016</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/7328255">AMP</a></td>
+      <td>512*512</td>
+      <td>26.770</td>
+      <td>0.947</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td>/</td>
+      <td>≥1000</td>
+      <td>Private</td>
+   </tr>
+   <tr align = "center">
+      <td>2011</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8186925">ADMM</a></td>
+      <td>512*512</td>
+      <td>26.470</td>
+      <td>0.941</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Reproduction</a></td>
+      <td>/</td>
+      <td>≥1000</td>
+      <td>Private</td>
+   </tr>
+   <tr align = "center">
+      <td>2007</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/4407762">GPSR</a></td>
+      <td>512*512</td>
+      <td>24.560</td>
+      <td>0.909</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td>/</td>
+      <td>≥1000</td>
+      <td>Private</td>
+   </tr>
+      <tr align = "center">
+      <td rowspan="2">2007</td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/4358846">TwIST</a></td>
+      <td>256*256</td>
+      <td>25.442</td>
+      <td>0.906</td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td rowspan="2">/</td>
+      <td rowspan="2">≥1000</td>
+      <td rowspan="2"><a href = "https://github.com/vbisin/Image-Restoration-Algorithm-TwIST">Python</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>26.155</td>
+      <td>0.936</td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+   </tr>
+</table>
 
 ## CAVE&KAIST Datasets
 ### Configuration
