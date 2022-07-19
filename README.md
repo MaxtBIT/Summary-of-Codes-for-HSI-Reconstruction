@@ -230,26 +230,26 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>  
    <tr align = "center">
       <td rowspan="3">2016</td>
-      <td rowspan="3"><a href = "https://arxiv.org/abs/2012.08364">LRMA</a></td>
+      <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/7780774">LRMA</a></td>
       <td>256*256</td>
       <td>29.793</td>
       <td>0.940</td>
-      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td rowspan="3">111</td>
       <td rowspan="3">111</td>
-      <td rowspan="3"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+      <td rowspan="3">Private</td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
       <td>29.160</td>
       <td>0.964</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
    </tr>  
    <tr align = "center">
       <td>512*512</td>
       <td>29.975</td>
       <td>0.972</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9356383">Reproduction</a></td>
    </tr>  
    <tr align = "center">
       <td>2016</td>
