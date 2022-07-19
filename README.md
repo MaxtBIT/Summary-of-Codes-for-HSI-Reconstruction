@@ -315,7 +315,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 
 ## Harvard Dataset
 
-<img src="./figures/Harvard.jpg">
+<img src="./figures/Harvard.jpg" height="1000" width="500">
 
 [Click here](http://vision.seas.harvard.edu/hyperspec/) to download Harvard Dataset.
 
