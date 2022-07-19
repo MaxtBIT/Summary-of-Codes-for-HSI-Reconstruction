@@ -150,8 +150,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>30.400</td>
       <td>0.943</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
-      <td>111</td>
-      <td>111</td>
+      <td>/</td>
+      <td>≥1000</td>
       <td>Private</td>
    </tr>
    <tr align = "center">
@@ -195,8 +195,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>27.472</td>
       <td>0.914</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
-      <td rowspan="2">111</td>
-      <td rowspan="2">111</td>
+      <td rowspan="2">/</td>
+      <td rowspan="2">≥1000</td>
       <td rowspan="2">Private</td>
    </tr>
    <tr align = "center">
@@ -235,8 +235,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>29.793</td>
       <td>0.940</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
-      <td rowspan="3">111</td>
-      <td rowspan="3">111</td>
+      <td rowspan="3">/</td>
+      <td rowspan="3">≥1000</td>
       <td rowspan="3">Private</td>
    </tr>
    <tr align = "center">
@@ -258,8 +258,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>26.770</td>
       <td>0.947</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
-      <td>111</td>
-      <td>111</td>
+      <td>/</td>
+      <td>≥1000</td>
       <td>Private</td>
    </tr>
    <tr align = "center">
@@ -269,8 +269,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>26.470</td>
       <td>0.941</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8552450">Reproduction</a></td>
-      <td>111</td>
-      <td>111</td>
+      <td>/</td>
+      <td>≥1000</td>
       <td>Private</td>
    </tr>
    <tr align = "center">
@@ -280,8 +280,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>24.560</td>
       <td>0.909</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
-      <td>111</td>
-      <td>111</td>
+      <td>/</td>
+      <td>≥1000</td>
       <td>Private</td>
    </tr>
       <tr align = "center">
