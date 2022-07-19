@@ -128,20 +128,20 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
       <tr align = "center">
       <td rowspan="2">2019</td>
-      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">λ-Net</a></td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9010044">λ-Net</a></td>
       <td>256*256</td>
       <td>29.006</td>
       <td>0.946</td>
-      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td rowspan="2">111</td>
       <td rowspan="2">111</td>
-      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
       <td>28.850</td>
       <td>0.973</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduction</a></td>
    </tr>
    <tr align = "center">
       <td>2019</td>
