@@ -253,11 +253,11 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>  
    <tr align = "center">
       <td>2016</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">AMP</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/7328255">AMP</a></td>
       <td>512*512</td>
       <td>26.770</td>
       <td>0.947</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
       <td>111</td>
       <td>111</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
@@ -268,7 +268,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>512*512</td>
       <td>26.470</td>
       <td>0.941</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td>111</td>
       <td>111</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
@@ -279,7 +279,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>512*512</td>
       <td>24.560</td>
       <td>0.909</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
       <td>111</td>
       <td>111</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
@@ -290,7 +290,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>256*256</td>
       <td>25.442</td>
       <td>0.906</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9578572">Reproduction</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/vbisin/Image-Restoration-Algorithm-TwIST">Python</a></td>
@@ -299,7 +299,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>512*512</td>
       <td>26.155</td>
       <td>0.936</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
    </tr>
 </table>
 
