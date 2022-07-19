@@ -155,7 +155,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
-      <td rowspan="2">2019</td>
+      <td rowspan="2">2018</td>
       <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">ISTA-Net</a></td>
       <td>256*256</td>
       <td>30.498</td>
@@ -171,7 +171,40 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td>0.984</td>
       <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
    </tr>   
-   
+   <tr align = "center">
+      <td rowspan="2">2017</td>
+      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">Autoencoder</a></td>
+      <td>256*256</td>
+      <td>28.068</td>
+      <td>0.923</td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td rowspan="2">111</td>
+      <td rowspan="2">111</td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>30.440</td>
+      <td>0.970</td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+   </tr>  
+   <tr align = "center">
+      <td rowspan="2">2017</td>
+      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">3DNSR</a></td>
+      <td>256*256</td>
+      <td>27.472</td>
+      <td>0.914</td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td rowspan="2">111</td>
+      <td rowspan="2">111</td>
+      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+   </tr>
+   <tr align = "center">
+      <td>512*512</td>
+      <td>27.949</td>
+      <td>0.958</td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+   </tr>  
    
    
    
