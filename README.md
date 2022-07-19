@@ -96,8 +96,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
       <td rowspan="2">2019</td>
       <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">HyperReconNet</a></td>
       <td>256*256</td>
-      <td>38.43</td>
-      <td>0.97</td>
+      <td>38.430*</td>
+      <td>0.972</td>
       <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
       <td rowspan="2">111</td>
       <td rowspan="2">111</td>
@@ -105,8 +105,8 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td>512*512</td>
-      <td>32.36</td>
-      <td>0.99</td>
+      <td>32.363</td>
+      <td>0.986</td>
       <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
    </tr>
    <tr align = "center">
