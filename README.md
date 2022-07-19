@@ -77,20 +77,20 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td rowspan="2">2020</td>
-      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">DNU</a></td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9156942">DNU</a></td>
       <td>512*512</td>
       <td>34.270</td>
       <td>0.991</td>
-      <td><a href = "https://arxiv.org/abs/2012.08364">Paper</a></td>
+      <td><a href = "[https://arxiv.org/abs/2012.08364](https://ieeexplore.ieee.org/document/9156942)">Paper</a></td>
       <td rowspan="2">111</td>
       <td rowspan="2">111</td>
-      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+      <td rowspan="2"><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
       <td>33.784</td>
       <td>0.991</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduction</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
