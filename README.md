@@ -156,20 +156,20 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td rowspan="2">2018</td>
-      <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">ISTA-Net</a></td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8578294">ISTA-Net</a></td>
       <td>256*256</td>
       <td>30.498</td>
       <td>0.947</td>
-      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td rowspan="2">111</td>
       <td rowspan="2">111</td>
-      <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+      <td rowspan="2"><a href = "https://github.com/jianzhangcs/ISTA-Net-PyTorch">PyTorch </a><a href = "https://github.com/jianzhangcs/ISTA-Net"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
       <td>31.730</td>
       <td>0.984</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
    </tr>   
    <tr align = "center">
       <td rowspan="2">2017</td>
