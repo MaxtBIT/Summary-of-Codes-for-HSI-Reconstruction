@@ -145,14 +145,14 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>
    <tr align = "center">
       <td>2019</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">DTLR</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9008805">DTLR</a></td>
       <td>256*256</td>
       <td>30.400</td>
       <td>0.943</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td>111</td>
       <td>111</td>
-      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
+      <td>Private</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2018</td>
