@@ -207,26 +207,26 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
    </tr>  
    <tr align = "center">
       <td rowspan="3">2017</td>
-      <td rowspan="3"><a href = "https://arxiv.org/abs/2012.08364">HSCNN</a></td>
+      <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/8265278">HSCNN</a></td>
       <td>256*256</td>
       <td>28.446</td>
       <td>0.934</td>
-      <td><a href = "https://arxiv.org/abs/2012.08364">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
       <td rowspan="3">111</td>
       <td rowspan="3">111</td>
-      <td rowspan="3"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
+      <td rowspan="3"><a href = "https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py">PyTorch</a></td>
    </tr>
    <tr align = "center">
       <td>256*256</td>
       <td>36.640*</td>
       <td>0.963</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
    </tr>  
    <tr align = "center">
       <td>512*512</td>
       <td>29.475</td>
       <td>0.973</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
    </tr>  
    <tr align = "center">
       <td rowspan="3">2016</td>
