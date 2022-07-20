@@ -21,7 +21,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 ```
 2. Create the environment and ensure the version.
 3. Select a method in **cal_complexity.py**. Then, run this file to get params_count and FLOPs.
-4. The function for calculating distortion can be checked in **cal_distortion.py**.
+4. The function to calculate distortion can be checked in **cal_distortion.py**.
 
 ## ICVL Dataset
 
