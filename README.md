@@ -33,7 +33,7 @@ The spectral images in the ICVL Dataset are acquired using a Specim PS Kappa DX4
 
 ### 1.Configurations
 
-In this stage, the mask is learnable. And the size of patches is 64 * 64 * 31. In addition, only the central areas with 512 * 512 * 31 are compared in testing.
+In this stage, the coded aperture patterns are constructed by following random matrix in Bernoulli distributions with p = 0.5. In addition, only the central areas with 256 * 256 * 31 or 512 * 512 * 31 are compared in testing.
 
 ### 2.Results
 <table align = "center">
