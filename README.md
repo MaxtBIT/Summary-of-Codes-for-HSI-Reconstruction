@@ -614,9 +614,11 @@ The spectral images in the Harvard Dataset are acquired using a CRI Nuance FX sp
 
 The spectral images in the CAVE Dataset are acquired using a VariSpec Liquid Crystal Tunable Filter and a Apogee Alta U260 CCD Camera. The spectral range is from 400nm to 700nm, which is divided into 31 spectral bands with approximate 10nm bandwidth for each band. There are 32 spectral images in CAVE Dataset. 30 spectral images are selected for training.
 
-<img src="./figures/KAIST.jpg">
-
 [Click here](https://cave.cs.columbia.edu/projects/categories/project?cid=Computational+Imaging&pid=Generalized+Assorted+Pixel+Camera) to download CAVE Dataset.
+
+The spectral images in the KAIST Dataset are acquired using a VariSpec Liquid Crystal Tunable Filter and a Apogee Alta U260 CCD Camera. The spectral range is from 400nm to 700nm, which is divided into 31 spectral bands with approximate 10nm bandwidth for each band. There are 32 spectral images in CAVE Dataset. 10 scenes with a size of 256*256*28 are selected for testing.
+
+<img src="./figures/KAIST.jpg">
 
 [Click here](http://vclab.kaist.ac.kr/siggraphasia2017p1/) to download KAIST Dataset.
 
