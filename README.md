@@ -25,7 +25,7 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 
 ## ICVL Dataset
 
-The spectral images in the ICVL Dataset are acquired using a Specim PS Kappa DX4 spectral camera and a rotary stage for spatial scanning. The spectral range is from 400nm to 700nm, which is divided into 31 spectral bands with approximate 10nm bandwidth for each band. There are 201 spectral images in ICVL Dataset. To avoid over-fitting, 31 spectral images with similar backgrounds and 20 spectral images with similar contents are excluded. 100 spectral images are randomly selected for training and the rest 50 images for testing.
+The spectral images in the ICVL Dataset are acquired using a Specim PS Kappa DX4 spectral camera and a rotary stage for spatial scanning. The spectral range is from 400nm to 700nm, which is divided into 31 spectral bands with approximate 10nm bandwidth for each band. There are 201 spectral images in ICVL Dataset. To avoid over-fitting, 31 spectral images with similar backgrounds and 20 spectral images with similar contents are excluded. Then, 100 spectral images are used for training, and 50 spectral images are used for testing. The specific splitting can be checked in [./data/ICVL_Dataset.txt](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/data/ICVL_Dataset.txt).
 
 <img src="./figures/ICVL.jpg">
 
