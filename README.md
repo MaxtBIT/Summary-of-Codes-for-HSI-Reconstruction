@@ -3,7 +3,7 @@ Coded Aperture Snapshot Spectral Imaging(CASSI) is a cutting-edge technology of 
 
 <img src="./figures/CASSI.jpg">
 
-Following the experimental settings of [Meng et al.](https://github.com/mengziyi64/TSA-Net), this repository summarizes the related results and source codes. Meanwhile, the model complexity is measured by parameters counts and floating-point operations(FLOPs) counts. A [CODE](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_params_FLOPs.py) is provided to calculate the complexity of learning-based algorithms.
+To evaluate the accuracy of the algorithms, the functions to calculate distortion are provided in [cal_performance.py](), including PSNR, SSIM and SAM. Meanwhile, to measure the model complexity, the functions to calculate parameters counts and floating-point operations(FLOPs) counts are provided in [cal_params_FLOPs.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_params_FLOPs.py).
 
 ## Environment
 Python 3.6.2<br/>
