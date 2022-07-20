@@ -23,11 +23,14 @@ git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 3. Select a method in **cal_params_FLOPs.py**. Then, run this file to get params_count and FLOPs.
 
 ## ICVL Dataset
+
+The spectral images in the ICVL Dataset are acquired using a Specim PS Kappa DX4 spectral camera and a rotary stage for spatial scanning. The spectral range is from 400nm to 700nm, which is divided into 31 spectral bands with approximate 10nm bandwidth for each band. There are 201 spectral images in ICVL dataset. To avoid over-fitting, 31 spectral images with similar backgrounds and 20 spectral images with similar contents are excluded. 100 spectral images are randomly selected for training and the rest are for testing.
+
 <img src="./figures/ICVL.jpg">
 
 [Click here](http://icvl.cs.bgu.ac.il/hyperspectral/) to download ICVL Dataset.
 
-### Configuration
+### Configurations
 
 ### Results
 <table align = "center">
