@@ -1,0 +1,47 @@
+For CAVE dataset, 30 scenes are used for training. These images are published in https://www1.cs.columbia.edu/CAVE/projects/gap_camera/. 
+The filenames are as follows:
+---------CAVE_train---------
+001: balloons_ms
+002: beads_ms
+003: cd_ms
+004: chart_and_stuffed_toy_ms
+005: clay_ms
+006: cloth_ms
+007: egyptian_statue_ms
+008: face_ms
+009: beers_ms
+010: lemon_slices_ms
+011: lemons_ms
+012: peppers_ms
+013: strawberries_ms
+014: sushi_ms
+015: tomatoes_ms
+016: feathers_ms
+017: flowers_ms
+018: glass_tiles_ms
+019: hairs_ms
+020: jelly_beans_ms
+021: oil_painting_ms
+022: paints_ms
+023: photo_and_face_ms
+024: pompoms_ms
+025: yellowpeppers_ms
+026: sponges_ms
+027: stuffed_toys_ms
+028: superballs_ms
+029: thread_spools_ms
+030: watercolors_ms
+
+For KAIST dataset, 10 scenes are used for testing. These images are published in http://vclab.kaist.ac.kr/siggraphasia2017p1/. 
+The filenames are as follows:
+---------KAIST_test---------
+001: scene03
+002: scene04
+003: scene05
+004: scene08
+005: scene11
+006: scene12
+007: scene14
+008: scene21
+009: scene23
+010: scene24

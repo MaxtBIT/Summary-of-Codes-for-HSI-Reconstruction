@@ -3,7 +3,7 @@ Coded Aperture Snapshot Spectral Imaging(CASSI) is a cutting-edge technology of 
 
 <img src="./figures/CASSI.jpg">
 
-In the site, the mainstream algorithms are summarized according to different datasets. The distortion, including peak signal-to-noise ratio (**PSNR**), structural similarity (**SSIM**) and spectral angle mapping (**SAM**), are usually utilized to evaluate the accuracy of the algorithms. The functions for calculation are provided in [cal_performance.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_performance.py). Meanwhile, parameters(**Params**) counts and floating-point operations(**FLOPs**) counts are utilized to measure the model complexity. The functions for calculation are provided in [cal_params_FLOPs.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_params_FLOPs.py).
+In the site, the mainstream algorithms are summarized according to different datasets. The distortion, including peak signal-to-noise ratio (**PSNR**), structural similarity (**SSIM**) and spectral angle mapping (**SAM**), are usually utilized to evaluate the accuracy of the algorithms. The functions for calculation are provided in [cal_performance.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_distortion.py). Meanwhile, parameters(**Params**) counts and floating-point operations(**FLOPs**) counts are utilized to measure the model complexity. The functions for calculation are provided in [cal_params_FLOPs.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_complexity.py).
 
 ## Environment
 Python 3.6.2<br/>
@@ -20,8 +20,8 @@ NumPy 1.19.5<br/>
 git clone https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction.git
 ```
 2. Create the environment and ensure the version.
-3. Select a method in **cal_params_FLOPs.py**. Then, run this file to get params_count and FLOPs.
-4. The function for calculating distortion can be checked in **cal_performance.py**.
+3. Select a method in **cal_complexity.py**. Then, run this file to get params_count and FLOPs.
+4. The function for calculating distortion can be checked in **cal_distortion.py**.
 
 ## ICVL Dataset
 

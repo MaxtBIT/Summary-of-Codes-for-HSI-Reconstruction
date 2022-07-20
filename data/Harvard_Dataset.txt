@@ -1,0 +1,49 @@
+For Havrad dataset, 35 scenes are used for training, and 9 scenes are used for testing. These images are published in 
+http://vision.seas.harvard.edu/hyperspec/. The split filenames are as follows:
+---------Havrad_train---------
+001: img1
+002: img2
+003: imga1
+004: imga2
+005: imga5
+006: imga6
+007: imga7
+008: imgb0
+009: imgb1
+010: imgb2
+011: imgb3
+012: imgb4
+013: imgb5
+014: imgb6
+015: imgb7
+016: imgb8
+017: imgb9
+018: imgc1
+019: imgc2
+020: imgc4
+021: imgc5
+022: imgc7
+023: imgc8
+024: imgc9
+025: imgd2
+026: imgd3
+027: imgd4
+028: imgd7
+029: imgd8
+030: imgd9
+031: imge0
+032: imge1
+033: imge2
+034: imge3
+035: imge4
+
+---------Havard_test---------
+001: imge7
+002: imgf3
+003: imgf4
+004: imgf5
+005: imgf7
+006: imgh0
+007: imgh1
+008: imgh2
+009: imgh3
