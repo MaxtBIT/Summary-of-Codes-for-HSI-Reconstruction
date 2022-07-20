@@ -31,9 +31,11 @@ The spectral images in the ICVL Dataset are acquired using a Specim PS Kappa DX4
 
 [Click here](http://icvl.cs.bgu.ac.il/hyperspectral/) to download ICVL Dataset.
 
-### Configurations
+### 1.Configurations
 
-### Results
+In this stage, the mask is learnable. And the size of patches is 64 * 64 * 31. In addition, only the central areas with 512 * 512 * 31 are compared in testing.
+
+### 2.Results
 <table align = "center">
    <caption>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison of reconstruction quality and computational efficiency on ICVL Dataset</caption>
    <tr align = "center">
@@ -325,9 +327,9 @@ The spectral images in the Harvard Dataset are acquired using a CRI Nuance FX sp
 
 [Click here](http://vision.seas.harvard.edu/hyperspec/) to download Harvard Dataset.
 
-### Configurations
+### 1.Configurations
 
-### Results
+### 2.Results
 <table align = "center">
    <caption>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison of reconstruction quality and computational efficiency on Harvard Dataset</caption>
    <tr align = "center">
@@ -623,10 +625,10 @@ In the experiments, 30 spectral images of CAVE Dataset are selected for training
 
 [Click here](https://cave.cs.columbia.edu/projects/categories/project?cid=Computational+Imaging&pid=Generalized+Assorted+Pixel+Camera) to download CAVE Dataset. [Click here](http://vclab.kaist.ac.kr/siggraphasia2017p1/) to download KAIST Dataset.
 
-### Configurations
+### 1.Configurations
 To analyze the complexity, we have summarized the source codes of mainstream algorithms.  The code links are shown in the table, sorted as MATLAB, PyTorch and TensorFlow. In this stage, the size of reconstructed image is set as 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net) The parameter counts and floating-point operation counts(FLOPs) are utilized to evaluate the complexity. Note that, the FLOPs of the iterative optimization methods are not precisely evaluated. In addition, according to different reference, the average PSNR and SSIM on 10 scenes of KAIST Dataset are listed.
 
-### Results
+### 2.Results
 <table align = "center">
    <caption>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison of reconstruction quality and computational efficiency on KAIST Dataset</caption>
    <tr align = "center">
