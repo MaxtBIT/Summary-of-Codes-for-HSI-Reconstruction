@@ -319,7 +319,7 @@ The spectral images in the ICVL Dataset are acquired using a Specim PS Kappa DX4
 
 ## Harvard Dataset
 
-The spectral images in the Harvard Dataset are acquired using a CRI Nuance FX spectral camera with a liquid crystal tunable filter for spectral scanning. The spectral range is from 420nm to 720nm with 31 spectral bands. The Harvard Dataset consists of 50 spectral images with distinct natural scenes. Besides, 6 deteriorated spectral images with large-area saturated pixels are removed. In experiments, 35 spectral images are randomly selected for training, and 9 spectral images are used for testing. The specific splitting can be checked in [./data/Harvard_Dataset.txt](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/data/Harvard_Dataset.txt).
+The spectral images in the Harvard Dataset are acquired using a CRI Nuance FX spectral camera with a liquid crystal tunable filter for spectral scanning. The spectral range is from 420nm to 720nm with 31 spectral bands. The Harvard Dataset consists of 50 spectral images with distinct natural scenes. In experiments, 6 deteriorated spectral images with large-area saturated pixels are removed. 35 spectral images are randomly selected for training, and 9 spectral images are used for testing. The specific splitting can be checked in [./data/Harvard_Dataset.txt](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/data/Harvard_Dataset.txt).
 
 <img src="./figures/Harvard.jpg" height="500" width="1000">
 
