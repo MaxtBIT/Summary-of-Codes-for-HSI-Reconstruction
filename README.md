@@ -617,7 +617,7 @@ The spectral images in the CAVE Dataset are acquired using a VariSpec Liquid Cry
 
 The spectral images in the KAIST Dataset are acquired using a VariSpec Liquid Crystal Tunable Filter and a Pointgrey Grasshopper 9.1MP Monochromatic Camera. The spectral range is from 400nm to 720nm. There are 30 spectral images in KAIST Dataset. 
 
-In the experiments, 30 spectral images of CAVE Dataset are selected for training. 10 cropped spectral images with the size of 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net), are selected for testing. The specific splitting can be checked in [./data/CAVE&KAIST_Dataset.txt](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/data/CAVE&KAIST_Dataset.txt).
+In the experiments, 30 spectral images of CAVE Dataset are selected for training. 10 cropped spectral images with the size of 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net), are selected for testing. The file list can be checked in [./data/CAVE&KAIST_Dataset.txt](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/data/CAVE&KAIST_Dataset.txt).
 
 <img src="./figures/KAIST.jpg">
 
