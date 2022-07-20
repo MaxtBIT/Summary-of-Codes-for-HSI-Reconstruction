@@ -1,4 +1,4 @@
-# Summary of Algorithms for CASSI Reconstruction
+# Summary of Reconstruction Algorithms for CASSI
 Coded Aperture Snapshot Spectral Imaging(CASSI) is a cutting-edge technology of spectral imaging. The reconstruction algorithms of CASSI, which are devoted to solve the inverse imaging problem, determine the quality and efficiency of imaging. Given the sensing matrix **A** and the 2D CASSI measurement **y**, estimating the underlying image **x** is the fundamental task of reconstruction.
 
 <img src="./figures/CASSI.jpg">
