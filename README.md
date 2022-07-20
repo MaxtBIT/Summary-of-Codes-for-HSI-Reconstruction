@@ -3,6 +3,8 @@ Coded Aperture Snapshot Spectral Imaging(CASSI) is a cutting-edge technology of 
 
 <img src="./figures/CASSI.jpg">
 
+In the site, the mainstream algorithms are summarized on different datasets. 
+
 The distortion, including peak signal-to-noise ratio (**PSNR**), structural similarity (**SSIM**) and spectral angle mapping (**SAM**), are utilized to evaluate the accuracy of the algorithms. The functions for calculation are provided in [cal_performance.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_performance.py). Meanwhile, parameters(**Params**) counts and floating-point operations(**FLOPs**) counts are utilized to measure the model complexity. The functions for calculation are provided in [cal_params_FLOPs.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_params_FLOPs.py).
 
 ## Environment
