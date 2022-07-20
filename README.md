@@ -324,7 +324,7 @@ The spectral images in the Harvard Dataset are acquired using a CRI Nuance FX sp
 
 [Click here](http://vision.seas.harvard.edu/hyperspec/) to download Harvard Dataset.
 
-### Configuration
+### Configurations
 
 ### Results
 <table align = "center">
@@ -618,7 +618,7 @@ The spectral images in the Harvard Dataset are acquired using a CRI Nuance FX sp
 
 [Click here](http://vclab.kaist.ac.kr/siggraphasia2017p1/) to download KAIST Dataset.
 
-### Configuration
+### Configurations
 To analyze the complexity, we have summarized the source codes of mainstream algorithms.  The code links are shown in the table, sorted as MATLAB, PyTorch and TensorFlow. In this stage, the size of reconstructed image is set as 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net) The parameter counts and floating-point operation counts(FLOPs) are utilized to evaluate the complexity. Note that, the FLOPs of the iterative optimization methods are not precisely evaluated. In addition, according to different reference, the average PSNR and SSIM on 10 scenes of KAIST Dataset are listed.
 
 ### Results
