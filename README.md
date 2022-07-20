@@ -615,15 +615,13 @@ The spectral images in the Harvard Dataset are acquired using a CRI Nuance FX sp
 
 The spectral images in the CAVE Dataset are acquired using a VariSpec Liquid Crystal Tunable Filter and a Apogee Alta U260 CCD Camera. The spectral range is from 400nm to 700nm, which is divided into 31 spectral bands with approximate 10nm bandwidth for each band. There are 32 spectral images in CAVE Dataset.
 
-[Click here](https://cave.cs.columbia.edu/projects/categories/project?cid=Computational+Imaging&pid=Generalized+Assorted+Pixel+Camera) to download CAVE Dataset.
-
 The spectral images in the KAIST Dataset are acquired using a VariSpec Liquid Crystal Tunable Filter and a Pointgrey Grasshopper 9.1MP Monochromatic Camera. The spectral range is from 400nm to 720nm. There are 30 spectral images in KAIST Dataset. 
 
-In the experiments, 30 spectral images of CAVE Dataset are selected for training. 10 cropped spectral images with the size of 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net), are selected for testing.
+In the experiments, 30 spectral images of CAVE Dataset are selected for training. 10 cropped spectral images with the size of 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net), are selected for testing. The specific splitting can be checked in [./data/CAVE&KAIST_Dataset.txt](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/data/CAVE&KAIST_Dataset.txt).
 
 <img src="./figures/KAIST.jpg">
 
-[Click here](http://vclab.kaist.ac.kr/siggraphasia2017p1/) to download KAIST Dataset.
+[Click here](https://cave.cs.columbia.edu/projects/categories/project?cid=Computational+Imaging&pid=Generalized+Assorted+Pixel+Camera) to download CAVE Dataset. [Click here](http://vclab.kaist.ac.kr/siggraphasia2017p1/) to download KAIST Dataset.
 
 ### Configurations
 To analyze the complexity, we have summarized the source codes of mainstream algorithms.  The code links are shown in the table, sorted as MATLAB, PyTorch and TensorFlow. In this stage, the size of reconstructed image is set as 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net) The parameter counts and floating-point operation counts(FLOPs) are utilized to evaluate the complexity. Note that, the FLOPs of the iterative optimization methods are not precisely evaluated. In addition, according to different reference, the average PSNR and SSIM on 10 scenes of KAIST Dataset are listed.
