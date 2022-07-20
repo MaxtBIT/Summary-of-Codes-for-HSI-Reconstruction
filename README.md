@@ -329,6 +329,8 @@ The spectral images in the Harvard Dataset are acquired using a CRI Nuance FX sp
 
 ### 1.Configurations
 
+The configurations are the same as ICVL Dataset.
+
 ### 2.Results
 <table align = "center">
    <caption>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison of reconstruction quality and computational efficiency on Harvard Dataset</caption>
