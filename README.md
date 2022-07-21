@@ -109,7 +109,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td rowspan="2">2019</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
       <td>256*256</td>
-      <td>39.670*</td>
+      <td>39.670'</td>
       <td>0.979</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
       <td rowspan="2">0.334</td>
@@ -127,7 +127,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td rowspan="2">2019</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8552450">HyperReconNet</a></td>
       <td>256*256</td>
-      <td>38.430*</td>
+      <td>38.430'</td>
       <td>0.972</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
       <td rowspan="2">3.86</td>
@@ -235,7 +235,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
    </tr>
    <tr align = "center">
       <td>256*256</td>
-      <td>36.640*</td>
+      <td>36.640'</td>
       <td>0.963</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
    </tr>  
@@ -356,7 +356,7 @@ The configurations are the same as ICVL Dataset.
       <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">DRAN</a></td>
       <td>256*256</td>
-      <td>35.690*</td>
+      <td>35.690'</td>
       <td>0.945</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Paper</a></td>
       <td>/</td>
@@ -406,7 +406,7 @@ The configurations are the same as ICVL Dataset.
       <td rowspan="2">2019</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
       <td>256*256</td>
-      <td>37.620*</td>
+      <td>37.620'</td>
       <td>0.955</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
       <td rowspan="2">0.334</td>
@@ -424,7 +424,7 @@ The configurations are the same as ICVL Dataset.
       <td rowspan="2">2019</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8552450">HyperReconNet</a></td>
       <td>256*256</td>
-      <td>36.040*</td>
+      <td>36.040'</td>
       <td>0.938</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
       <td rowspan="2">3.86</td>
@@ -532,7 +532,7 @@ The configurations are the same as ICVL Dataset.
    </tr>
    <tr align = "center">
       <td>256*256</td>
-      <td>35.090*</td>
+      <td>35.090'</td>
       <td>0.936</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
    </tr>  
