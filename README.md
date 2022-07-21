@@ -628,7 +628,7 @@ In the experiments, 30 spectral images of CAVE Dataset are selected for training
 [Click here](https://cave.cs.columbia.edu/projects/categories/project?cid=Computational+Imaging&pid=Generalized+Assorted+Pixel+Camera) to download CAVE Dataset. [Click here](http://vclab.kaist.ac.kr/siggraphasia2017p1/) to download KAIST Dataset.
 
 ### 1.Configurations
-In this stage, the coded aperture pattern is a real mask with the size of 256 * 256, provided by [Meng et al.](https://github.com/mengziyi64/TSA-Net). The file is uploaded in [mask.mat](). The other details of the simulation are the same as ICVL Dataset.
+In this stage, the coded aperture pattern is a real mask with the size of 256 * 256, provided by [Meng et al.](https://github.com/mengziyi64/TSA-Net). The file is uploaded in [mask.mat](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/data/mask.mat). The other details of the simulation are the same as ICVL Dataset.
 
 ### 2.Results
 <table align = "center">
