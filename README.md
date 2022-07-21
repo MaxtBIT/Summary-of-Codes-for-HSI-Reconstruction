@@ -38,6 +38,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
 ### 2.Results
 <legend>Comparison of reconstruction quality and computational efficiency on ICVL Dataset (The * indicates that the maximum pixel value used in the calculation of PSNR is 1.0)</legend>
 <table align = "center">
+   <caption align = "top">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison of reconstruction quality and computational efficiency on ICVL Dataset</caption>
    <tr align = "center">
       <td rowspan="2">Year</td>
       <td rowspan="2">Method</td>
