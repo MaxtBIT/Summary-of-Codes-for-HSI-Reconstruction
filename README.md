@@ -318,6 +318,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>0.936</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
    </tr>
+   <caption>The * indicates that the maximum pixel value used in the calculation of PSNR is 1.0</caption>
 </table>
 
 ## Harvard Dataset
