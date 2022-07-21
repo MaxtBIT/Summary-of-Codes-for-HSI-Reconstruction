@@ -628,7 +628,7 @@ In the experiments, 30 spectral images of CAVE Dataset are selected for training
 [Click here](https://cave.cs.columbia.edu/projects/categories/project?cid=Computational+Imaging&pid=Generalized+Assorted+Pixel+Camera) to download CAVE Dataset. [Click here](http://vclab.kaist.ac.kr/siggraphasia2017p1/) to download KAIST Dataset.
 
 ### 1.Configurations
-To analyze the complexity, we have summarized the source codes of mainstream algorithms.  The code links are shown in the table, sorted as MATLAB, PyTorch and TensorFlow. In this stage, the size of reconstructed image is set as 256 * 256 * 28, following the work of [Meng et al.](https://github.com/mengziyi64/TSA-Net) The parameter counts and floating-point operation counts(FLOPs) are utilized to evaluate the complexity. Note that, the FLOPs of the iterative optimization methods are not precisely evaluated. In addition, according to different reference, the average PSNR and SSIM on 10 scenes of KAIST Dataset are listed.
+In this stage, the coded aperture pattern is a real mask with the size of 256 * 256, provided by [Meng et al.](https://github.com/mengziyi64/TSA-Net). The file is uploaded in [mask.mat](). The other details of the simulation are the same as ICVL Dataset.
 
 ### 2.Results
 <table align = "center">
