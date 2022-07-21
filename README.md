@@ -36,6 +36,7 @@ The spectral images in the ICVL Dataset are acquired using a Specim PS Kappa DX4
 To derive the simulative measurement, first, the coded aperture pattern is constructed by following random matrix in Bernoulli distributions with p = 0.5. Then, the coded aperture pattern is upsampled and shifted into the sensing matrix. Afterwards, a Hadamard product is made between a spectral image and the sensing matrix to simulate degradation. Finally, the degraded image is projected into a 2D image along the spectral dimension, i.e., the measurement. In training, the simulative measurement and the corresponding spectral image are paired to supervise the parameters updating. In testing, only the central areas with 256 * 256 * 31 or 512 * 512 * 31 are compared to evaluate the performance.
 
 ### 2.Results
+<legend>fieldset111111111111</legend>
 <table align = "center">
    <caption>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison of reconstruction quality and computational efficiency on ICVL Dataset</caption>
    <tr align = "center">
