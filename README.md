@@ -3,7 +3,7 @@ Coded Aperture Snapshot Spectral Imaging(CASSI) is a cutting-edge technology of 
 
 <img src="./figures/CASSI.jpg">
 
-In the site, the mainstream algorithms are summarized according to different datasets. The distortion, including peak signal-to-noise ratio (**PSNR**), structural similarity (**SSIM**) and spectral angle mapping (**SAM**), are usually utilized to evaluate the accuracy of the algorithms. The functions for calculation are provided in [cal_distortion.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_distortion.py). Meanwhile, parameters(**Params**) counts and floating-point operations(**FLOPs**) counts are utilized to measure the model complexity. The functions for calculation are provided in [cal_complexity.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_complexity.py).
+In the site, the mainstream algorithms are summarized according to different datasets. They are quantitatively evaluated in terms of performance and complexity. The distortion, including peak signal-to-noise ratio (**PSNR**), structural similarity (**SSIM**) and spectral angle mapping (**SAM**), are usually utilized to evaluate the performance of the algorithms. The functions for calculation are provided in [cal_distortion.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_distortion.py). Meanwhile, parameters(**Params**) counts and floating-point operations(**FLOPs**) counts are utilized to measure the model complexity. The functions for calculation are provided in [cal_complexity.py](https://github.com/MaxtBIT/Summary-of-Codes-for-HSI-Reconstruction/blob/master/cal_complexity.py).
 
 ## Environment
 Python 3.6.2<br/>
