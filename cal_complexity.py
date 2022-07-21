@@ -20,18 +20,18 @@ from models.BIRNAT.BIRNAT import BIRNAT
 from ptflops import get_model_complexity_info
 
 #options: HSCNN ISTA_Net Lambda_Net DSSP HyperReconNet DNU TSA_Net GAP_Net PnP_HSI PnP_DIP_HSI DGSMP DTLP HerosNet  CAE_SRN HDNet MST MST_Plus_Plus GAP_CCoT BIRNAT
-method = 'ISTA_Net' # select the method
+method = 'Lambda_Net' # select the method
 
 # citied pytorch version by https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py
 if method == 'HSCNN':
     model = HSCNN(1, 31, activation='relu').cuda()
     flops, params = get_model_complexity_info(model, (1, 512, 512), True, True)
 
-# citied tensorflow version by https://github.com/xinxinmiao/lambda-net
-# citied pytorch version by https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py
+# citied tensorflow version by https://github.com/jianzhangcs/ISTA-Net
+# citied pytorch version by https://github.com/jianzhangcs/ISTA-Net-PyTorch
 elif method == 'ISTA_Net':
     model = ISTANet(LayerNo = 9).cuda()
-    flops, params = get_model_complexity_info(model, (33, 33), True, True)
+    flops, params = get_model_complexity_info(model, (257, 257), True, True)
 
 # citied tensorflow version by https://github.com/xinxinmiao/lambda-net
 # citied pytorch version by https://github.com/mlplab/Lambda

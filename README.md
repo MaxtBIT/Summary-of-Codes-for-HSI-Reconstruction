@@ -176,8 +176,8 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>30.498</td>
       <td>0.947</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
-      <td rowspan="2">/</td>
-      <td rowspan="2">/</td>
+      <td rowspan="2">3.12</td>
+      <td>32.53</td>
       <td rowspan="2"><a href = "https://github.com/jianzhangcs/ISTA-Net-PyTorch">PyTorch </a><a href = "https://github.com/jianzhangcs/ISTA-Net"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
@@ -185,6 +185,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>31.730</td>
       <td>0.984</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td>130.12</td>
    </tr>   
    <tr align = "center">
       <td rowspan="2">2017</td>
@@ -472,8 +473,8 @@ The configurations are the same as ICVL Dataset.
       <td>29.870</td>
       <td>0.913</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
-      <td rowspan="2">/</td>
-      <td rowspan="2">/</td>
+      <td rowspan="2">3.12</td>
+      <td>32.53</td>
       <td rowspan="2"><a href = "https://github.com/jianzhangcs/ISTA-Net-PyTorch">PyTorch </a><a href = "https://github.com/jianzhangcs/ISTA-Net"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
@@ -481,6 +482,7 @@ The configurations are the same as ICVL Dataset.
       <td>31.130</td>
       <td>0.967</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td>130.12</td>
    </tr>   
    <tr align = "center">
       <td rowspan="2">2017</td>
