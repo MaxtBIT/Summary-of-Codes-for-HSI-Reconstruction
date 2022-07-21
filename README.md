@@ -38,7 +38,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
 ### 2.Results
 
 <table align = "center">
-   <caption align = "top">Comparison of reconstruction quality and computational efficiency on ICVL Dataset (The * indicates that the maximum pixel value used in the calculation of PSNR is 1.0)</caption>
+   <caption align = "top">Comparison of reconstruction quality and computational efficiency on ICVL Dataset (The ' indicates that the maximum pixel value used in the calculation of PSNR is 1.0)</caption>
    <tr align = "center">
       <td rowspan="2">Year</td>
       <td rowspan="2">Method</td>
@@ -59,7 +59,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>2021</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">DRAN</a></td>
       <td>256*256</td>
-      <td>38.900*</td>
+      <td>38.900'</td>
       <td>0.980</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Paper</a></td>
       <td>/</td>
