@@ -335,7 +335,7 @@ The configurations are the same as ICVL Dataset.
 
 ### 2.Results
 <table align = "center">
-   <caption>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison of reconstruction quality and computational efficiency on Harvard Dataset</caption>
+   <caption>Comparison of reconstruction quality and computational efficiency on Harvard Dataset  (The ' indicates that the maximum pixel value used in the calculation of PSNR is 1.0)</caption>
    <tr align = "center">
       <td rowspan="2">Year</td>
       <td rowspan="2">Method</td>
@@ -635,7 +635,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
 
 ### 2.Results
 <table align = "center">
-   <caption>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Comparison of reconstruction quality and computational efficiency on KAIST Dataset</caption>
+   <caption>Comparison of reconstruction quality and computational efficiency on KAIST Dataset</caption>
    <tr align = "center">
       <td rowspan="2">Year</td>
       <td rowspan="2">Method</td>
