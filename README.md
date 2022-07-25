@@ -40,7 +40,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
 <table align = "center">
    <caption align = "top">Comparison of performance and complexity on ICVL Dataset (The ' indicates that the maximum pixel value used in the calculation of PSNR is 1.0)</caption>
    <tr align = "center">
-      <td rowspan="2" width=25>Year</td>
+      <td rowspan="2">Year</td>
       <td rowspan="2">Method</td>
       <!-- <td colspan="1"></td> -->
       <td colspan="4">Performance</td>
@@ -422,7 +422,7 @@ The configurations are the same as ICVL Dataset.
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
-      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8552450">HyperReconNet</a></td>
+      <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8552450">HyperR- <br/> econNet</a></td>
       <td>256*256</td>
       <td>36.040'</td>
       <td>0.938</td>
@@ -487,7 +487,7 @@ The configurations are the same as ICVL Dataset.
    </tr>   
    <tr align = "center">
       <td rowspan="2">2017</td>
-      <td rowspan="2"><a href = "https://dl.acm.org/doi/10.1145/3130800.3130810">Autoencoder</a></td>
+      <td rowspan="2"><a href = "https://dl.acm.org/doi/10.1145/3130800.3130810">Autoe- <br/> ncoder</a></td>
       <td>256*256</td>
       <td>29.205</td>
       <td>0.912</td>
