@@ -125,7 +125,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
-      <td rowspan="2" word-break:break-all><a href = "https://ieeexplore.ieee.org/document/8552450">HyperRe conNet</a></td>
+      <td rowspan="2" style="word-break:break-all" width=50><a href = "https://ieeexplore.ieee.org/document/8552450">HyperReconNet</a></td>
       <td>256*256</td>
       <td>38.430'</td>
       <td>0.972</td>
