@@ -41,7 +41,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
    <caption align = "top">Comparison of performance and complexity on ICVL Dataset (The ' indicates that the maximum pixel value used in the calculation of PSNR is 1.0)</caption>
    <tr align = "center">
       <td rowspan="2">Year</td>
-      <td rowspan="2">Method</td>
+      <td rowspan="2" width="10">Method</td>
       <!-- <td colspan="1"></td> -->
       <td colspan="4">Performance</td>
       <td colspan="2">Complexity</td>  
