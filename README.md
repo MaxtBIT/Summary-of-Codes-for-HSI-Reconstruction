@@ -103,7 +103,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>33.784</td>
       <td>0.991</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduced Paper</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
@@ -111,7 +111,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>39.670'</td>
       <td>0.979</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
       <td rowspan="2">0.334</td>
       <td>22.42</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
@@ -129,7 +129,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>38.430'</td>
       <td>0.972</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
       <td rowspan="2">3.86</td>
       <td>393.12</td>
       <td rowspan="2"><a href = "https://github.com/MaxtBIT/HyperReconNet">PyTorch </a><a href = "https://github.com/ColinTaoZhang/HyperReconNet"> Caffe</a></td>
@@ -147,7 +147,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>29.006</td>
       <td>0.946</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">58.26</td>
       <td>44.82</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
@@ -156,7 +156,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>28.850</td>
       <td>0.973</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduced Paper</a></td>
       <td>179.28</td>
    </tr>
    <tr align = "center">
@@ -165,7 +165,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>30.400</td>
       <td>0.943</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td>/</td>
       <td>≥1000</td>
       <td>Private</td>
@@ -176,7 +176,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>30.498</td>
       <td>0.947</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">3.12</td>
       <td>32.53</td>
       <td rowspan="2"><a href = "https://github.com/jianzhangcs/ISTA-Net-PyTorch">PyTorch </a><a href = "https://github.com/jianzhangcs/ISTA-Net"> TensorFlow</a></td>
@@ -185,7 +185,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>31.730</td>
       <td>0.984</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
       <td>130.12</td>
    </tr>   
    <tr align = "center">
@@ -194,7 +194,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>28.068</td>
       <td>0.923</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">/</td>
       <td rowspan="2"><a href = "https://github.com/KAIST-VCLAB/deepcassi">TensorFlow</a></td>
@@ -203,7 +203,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>30.440</td>
       <td>0.970</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td rowspan="2">2017</td>
@@ -211,7 +211,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>27.472</td>
       <td>0.914</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2">Private</td>
@@ -220,7 +220,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>27.949</td>
       <td>0.958</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td rowspan="3">2017</td>
@@ -228,7 +228,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>28.446</td>
       <td>0.934</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="3">0.332</td>
       <td rowspan="2">21.73</td>
       <td rowspan="3"><a href = "https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py">PyTorch</a></td>
@@ -237,13 +237,13 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>36.640'</td>
       <td>0.963</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td>512*512</td>
       <td>29.475</td>
       <td>0.973</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
       <td>86.91</td>
    </tr>  
    <tr align = "center">
@@ -252,7 +252,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>29.793</td>
       <td>0.940</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="3">/</td>
       <td rowspan="3">≥1000</td>
       <td rowspan="3">Private</td>
@@ -261,13 +261,13 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>29.160</td>
       <td>0.964</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td>512*512</td>
       <td>29.975</td>
       <td>0.972</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9356383">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9356383">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td>2016</td>
@@ -275,7 +275,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>26.770</td>
       <td>0.947</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
       <td>/</td>
       <td>≥1000</td>
       <td>Private</td>
@@ -286,7 +286,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>26.470</td>
       <td>0.941</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Reproduced Paper</a></td>
       <td>/</td>
       <td>≥1000</td>
       <td>Private</td>
@@ -297,7 +297,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>24.560</td>
       <td>0.909</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
       <td>/</td>
       <td>≥1000</td>
       <td>Private</td>
@@ -308,7 +308,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>25.442</td>
       <td>0.906</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/vbisin/Image-Restoration-Algorithm-TwIST">Python</a></td>
@@ -317,7 +317,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>26.155</td>
       <td>0.936</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
    </tr>
 </table>
 
@@ -400,7 +400,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>32.550</td>
       <td>0.977</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduced Paper</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
@@ -408,7 +408,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>37.620'</td>
       <td>0.955</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
       <td rowspan="2">0.334</td>
       <td>22.42</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
@@ -426,7 +426,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>36.040'</td>
       <td>0.938</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
       <td rowspan="2">3.86</td>
       <td>393.12</td>
       <td rowspan="2"><a href = "https://github.com/MaxtBIT/HyperReconNet">PyTorch </a><a href = "https://github.com/ColinTaoZhang/HyperReconNet"> Caffe</a></td>
@@ -444,7 +444,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>29.373</td>
       <td>0.909</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">58.26</td>
       <td>44.82</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
@@ -453,7 +453,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>29.279</td>
       <td>0.950</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Reproduced Paper</a></td>
       <td>179.28</td>
    </tr>
    <tr align = "center">
@@ -462,7 +462,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>31.136</td>
       <td>0.932</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td>/</td>
       <td>≥1000</td>
       <td>Private</td>
@@ -473,7 +473,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>29.870</td>
       <td>0.913</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">3.12</td>
       <td>32.53</td>
       <td rowspan="2"><a href = "https://github.com/jianzhangcs/ISTA-Net-PyTorch">PyTorch </a><a href = "https://github.com/jianzhangcs/ISTA-Net"> TensorFlow</a></td>
@@ -482,7 +482,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>31.130</td>
       <td>0.967</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
       <td>130.12</td>
    </tr>   
    <tr align = "center">
@@ -491,7 +491,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>29.205</td>
       <td>0.912</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">/</td>
       <td rowspan="2"><a href = "https://github.com/KAIST-VCLAB/deepcassi">TensorFlow</a></td>
@@ -500,7 +500,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>30.300</td>
       <td>0.952</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td rowspan="2">2017</td>
@@ -508,7 +508,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>28.638</td>
       <td>0.903</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2">Private</td>
@@ -517,7 +517,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>28.508</td>
       <td>0.940</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td rowspan="3">2017</td>
@@ -525,7 +525,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>27.603</td>
       <td>0.895</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="3">0.332</td>
       <td rowspan="2">21.73</td>
       <td rowspan="3"><a href = "https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py">PyTorch</a></td>
@@ -534,13 +534,13 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>35.090'</td>
       <td>0.936</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td>512*512</td>
       <td>28.548</td>
       <td>0.944</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
       <td>86.91</td>
    </tr>  
    <tr align = "center">
@@ -549,7 +549,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>30.499</td>
       <td>0.930</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="3">/</td>
       <td rowspan="3">≥1000</td>
       <td rowspan="3">Private</td>
@@ -558,13 +558,13 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>29.680</td>
       <td>0.952</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td>512*512</td>
       <td>30.113</td>
       <td>0.957</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9356383">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9356383">Reproduced Paper</a></td>
    </tr>  
    <tr align = "center">
       <td>2016</td>
@@ -572,7 +572,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>26.670</td>
       <td>0.935</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
       <td>/</td>
       <td>≥1000</td>
       <td>Private</td>
@@ -583,7 +583,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>26.350</td>
       <td>0.924</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Reproduced Paper</a></td>
       <td>/</td>
       <td>≥1000</td>
       <td>Private</td>
@@ -594,7 +594,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>24.960</td>
       <td>0.907</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
       <td>/</td>
       <td>≥1000</td>
       <td>Private</td>
@@ -605,7 +605,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>26.228</td>
       <td>0.889</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9577826">Reproduction</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/vbisin/Image-Restoration-Algorithm-TwIST">Python</a></td>
@@ -614,7 +614,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>27.163</td>
       <td>0.924</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
    </tr>
 </table>
 
@@ -756,7 +756,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://opg.optica.org/prj/fulltext.cfm?uri=prj-9-2-B18&id=446778">PnP-HSI</a></td>
       <td>25.67</td>
       <td>0.70</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Reproduced Paper</a></td>
       <td>1.96</td>
       <td>≥3000</td>
       <td><a href = "https://github.com/zsm1211/PnP-CASSI">PyTorch</a></td>
@@ -774,7 +774,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    <tr align = "center">
       <td>32.47</td>
       <td>0.93</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Reproduction</a></td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Reproduced Paper</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2020</td>
@@ -789,14 +789,14 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    <tr align = "center">
       <td>31.46</td>
       <td>0.89</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduced Paper</a></td>
    </tr>
    <tr align = "center">
       <td>2020</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9156942">DNU</a></td>
       <td>30.74</td>
       <td>0.86</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduced Paper</a></td>
       <td>4.47</td>
       <td>293.90</td>
       <td><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
@@ -806,7 +806,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td rowspan="3"><a href = "https://ieeexplore.ieee.org/document/8954038">DSSP</a></td>
       <td>30.35</td>
       <td>0.85</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduced Paper</a></td>
       <td rowspan="3">0.30</td>
       <td rowspan="3">20.14</td>
       <td rowspan="3"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
@@ -814,7 +814,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    <tr align = "center">
       <td>28.93</td>
       <td>0.83</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a> </td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduced Paper</a> </td>
    </tr>
    <tr align = "center">
       <td>32.39</td>
@@ -826,7 +826,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/9010044">λ-Net</a></td>
       <td>28.53</td>
       <td>0.84</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduced Paper</a></td>
       <td rowspan="2">58.25</td>
       <td rowspan="2">44.59</td>
       <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
@@ -834,14 +834,14 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    <tr align = "center">
       <td>29.25</td>
       <td>0.89</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a> </td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduced Paper</a> </td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/8481592">DeSCI</a></td>
       <td>25.27</td>
       <td>0.72</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduced Paper</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/liuyang12/DeSCI">MATLAB</a></td>
@@ -849,14 +849,14 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    <tr align = "center">
       <td>25.86</td>
       <td>0.79</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a> </td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduced Paper</a> </td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2016</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/7532817">GAP-TV</a></td>
       <td>24.36</td>
       <td>0.70</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduced Paper</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/Scientific-Research-Algorithm-Toolbox/SCI-algorithms/blob/master/PnP_SCI/%5Bshared%5D/ADMM_Fastdvdnet_xinyuan/dvp_linear_inv.py">Python</a></td>
@@ -864,14 +864,14 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    <tr align = "center">
       <td>23.73</td>
       <td>0.68</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a> </td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduced Paper</a> </td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2007</td>
       <td rowspan="2"><a href = "https://ieeexplore.ieee.org/document/4358846">TwIST</a></td>
       <td>23.12</td>
       <td>0.67</td>
-      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduction</a></td>
+      <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduced Paper</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
       <td rowspan="2"><a href = "https://github.com/vbisin/Image-Restoration-Algorithm-TwIST">Python</a></td>
@@ -879,7 +879,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    <tr align = "center">
       <td>22.44</td>
       <td>0.70</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduction</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Reproduced Paper</a></td>
    </tr>
 </table>
 
