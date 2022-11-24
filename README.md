@@ -61,7 +61,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>38.900'</td>
       <td>0.980</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Original Paper</a></td>
       <td>/</td>
       <td>/</td>
       <td>Private</td>
@@ -72,7 +72,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>36.571</td>
       <td>0.995</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Original Paper</a></td>
       <td>/</td>
       <td>/</td>
       <td>Private</td>
@@ -83,7 +83,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>256*256</td>
       <td>34.530</td>
       <td>0.977</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Original Paper</a></td>
       <td>3.20</td>
       <td>185.47</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
@@ -94,7 +94,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>34.270</td>
       <td>0.991</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9156942">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9156942">Original Paper</a></td>
       <td rowspan="2">4.21</td>
       <td rowspan="2">1104.96</td>
       <td rowspan="2"><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
@@ -120,7 +120,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>34.130</td>
       <td>0.992</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Original Paper</a></td>
       <td>89.68</td>
    </tr>
    <tr align = "center">
@@ -138,7 +138,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>512*512</td>
       <td>32.363</td>
       <td>0.986</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Original Paper</a></td>
       <td>1572.48</td>
    </tr>
       <tr align = "center">
@@ -358,7 +358,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>35.690'</td>
       <td>0.945</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Original Paper</a></td>
       <td>/</td>
       <td>/</td>
       <td>Private</td>
@@ -369,7 +369,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>34.052</td>
       <td>0.984</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Original Paper</a></td>
       <td>/</td>
       <td>/</td>
       <td>Private</td>
@@ -380,7 +380,7 @@ The configurations are the same as ICVL Dataset.
       <td>256*256</td>
       <td>32.433</td>
       <td>0.941</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9577826">Original Paper</a></td>
       <td>3.20</td>
       <td>185.47</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
@@ -391,7 +391,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>32.710</td>
       <td>0.978</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9156942">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9156942">Original Paper</a></td>
       <td rowspan="2">4.21</td>
       <td rowspan="2">1104.96</td>
       <td rowspan="2"><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
@@ -417,7 +417,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>32.840</td>
       <td>0.979</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8954038">Original Paper</a></td>
       <td>89.68</td>
    </tr>
    <tr align = "center">
@@ -435,7 +435,7 @@ The configurations are the same as ICVL Dataset.
       <td>512*512</td>
       <td>30.341</td>
       <td>0.964</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/8552450">Original Paper</a></td>
       <td>1572.48</td>
    </tr>
       <tr align = "center">
@@ -656,7 +656,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">BIRNAT</a></td>
       <td>36.14</td>
       <td>0.97</td>
-      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">Original Paper</a></td>
       <td>4.40</td>
       <td>3536.64</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/BIRNAT.py">PyTorch</a></td>
@@ -666,7 +666,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://arxiv.org/abs/2201.05768">GAP-CCoT</a></td>
       <td>35.26</td>
       <td>0.95</td>
-      <td><a href = "https://arxiv.org/abs/2201.05768">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2201.05768">Original Paper</a></td>
       <td>8.04</td>
       <td>95.60</td>
       <td><a href = "https://github.com/ucaswangls/GAP-CCoT">PyTorch</a></td>
@@ -686,7 +686,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://arxiv.org/abs/2111.07910">MST</a></td>
       <td>35.18</td>
       <td>0.95</td>
-      <td><a href = "https://arxiv.org/abs/2111.07910">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2111.07910">Original Paper</a></td>
       <td>2.46</td>
       <td>31.40</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST">PyTorch</a></td>
@@ -696,7 +696,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://arxiv.org/abs/2203.02149">HDNet</a></td>
       <td>34.34</td>
       <td>0.96</td>
-      <td><a href = "https://arxiv.org/abs/2203.02149">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2203.02149">Original Paper</a></td>
       <td>2.37</td>
       <td>159.06</td>
       <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/HDNet.py">PyTorch</a></td>
@@ -706,7 +706,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://arxiv.org/abs/2108.07739">CAE-SRN</a></td>
       <td>33.26</td>
       <td>0.93</td>
-      <td><a href = "https://arxiv.org/abs/2108.07739">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2108.07739">Original Paper</a></td>
       <td>1.25</td>
       <td>83.06</td>
       <td><a href = "https://github.com/Jiamian-Wang/HSI_baseline">PyTorch</a></td>
@@ -716,7 +716,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://arxiv.org/abs/2112.06238">HerosNet</a></td>
       <td>34.45</td>
       <td>0.97</td>
-      <td><a href = "https://arxiv.org/abs/2112.06238">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2112.06238">Original Paper</a></td>
       <td>11.75</td>
       <td>447.18</td>
       <td><a href = "https://github.com/jianzhangcs/HerosNet">PyTorch</a></td>
@@ -736,7 +736,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://ieeexplore.ieee.org/document/9578572">DGSMP</a></td>
       <td>32.63</td>
       <td>0.92</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9578572">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9578572">Original Paper</a></td>
       <td>3.76</td>
       <td>647.80</td>
       <td><a href = "https://github.com/MaxtBIT/DGSMP">PyTorch</a></td>
@@ -746,7 +746,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://ieeexplore.ieee.org/document/9710184">PnP-DIP-HSI</a></td>
       <td>31.30</td>
       <td>0.90</td>
-      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Paper</a></td>
+      <td><a href = "https://ieeexplore.ieee.org/document/9710184">Original Paper</a></td>
       <td>33.85</td>
       <td>≥3000</td>
       <td><a href = "https://github.com/mengziyi64/CASSI-Self-Supervised">PyTorch</a></td>
@@ -766,7 +766,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td rowspan="2"><a href = "https://arxiv.org/abs/2012.08364">GAP-Net</a></td>
       <td>32.13</td>
       <td>0.92</td>
-      <td><a href = "https://arxiv.org/abs/2012.08364">Paper</a></td>
+      <td><a href = "https://arxiv.org/abs/2012.08364">Original Paper</a></td>
       <td rowspan="2">4.27</td>
       <td rowspan="2">84.08</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/GAP-net">PyTorch</a></td>
@@ -781,7 +781,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td rowspan="2"><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">TSA-Net</a></td>
       <td>30.15</td>
       <td>0.89</td>
-      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Paper</a></td>
+      <td><a href = "https://link.springer.com/chapter/10.1007/978-3-030-58592-1_12">Original Paper</a></td>
       <td rowspan="2">44.25</td>
       <td rowspan="2">135.12</td>
       <td rowspan="2"><a href = "https://github.com/mengziyi64/TSA-Net">PyTorch</a></td>
