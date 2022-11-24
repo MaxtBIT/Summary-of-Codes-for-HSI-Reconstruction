@@ -671,16 +671,6 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td>95.60</td>
       <td><a href = "https://github.com/ucaswangls/GAP-CCoT">PyTorch</a></td>
    </tr>
-   <tr align = "center">
-      <td>2022</td>
-      <td><a href = "https://arxiv.org/abs/2204.07908">MST++</a></td>
-      <td>35.99</td>
-      <td>0.95</td>
-      <td><a href = "https://github.com/caiyuanhao1998/MST">Link</a></td>
-      <td>1.33</td>
-      <td>19.47</td>
-      <td><a href = "https://github.com/caiyuanhao1998/MST-plus-plus">PyTorch</a></td>
-   </tr>
   <tr align = "center">
       <td>2022</td>
       <td><a href = "https://arxiv.org/abs/2111.07910">MST</a></td>
@@ -726,7 +716,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">DTLP</a></td>
       <td>33.88</td>
       <td>0.93</td>
-      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">Link</a></td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">Original Paper</a></td>
       <td>3.16</td>
       <td>182.98</td>
       <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
@@ -819,7 +809,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    <tr align = "center">
       <td>32.39</td>
       <td>0.97</td>
-      <td><a href = "https://github.com/wang-lizhi/DSSP">Link</a></td>
+      <td><a href = "https://github.com/wang-lizhi/DSSP">Original Paper</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2019</td>
