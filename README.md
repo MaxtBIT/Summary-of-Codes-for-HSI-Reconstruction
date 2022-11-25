@@ -229,7 +229,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>28.446</td>
       <td>0.934</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
-      <td rowspan="3"><a href = "https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py">PyTorch</a></td>
+      <td rowspan="3">Private</td>
       <td rowspan="3">0.332</td>
       <td rowspan="2">21.73</td>
    </tr>
@@ -526,7 +526,7 @@ The configurations are the same as ICVL Dataset.
       <td>27.603</td>
       <td>0.895</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
-      <td rowspan="3"><a href = "https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py">PyTorch</a></td>
+      <td rowspan="3">Private</td>
       <td rowspan="3">0.332</td>
       <td rowspan="2">21.73</td>
    </tr>
