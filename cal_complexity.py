@@ -18,10 +18,11 @@ from models.MST_Plus_Plus.MST_Plus_Plus import MST_Plus_Plus
 from models.GAP_CCoT.gap_network import GAP_CCoT
 from models.BIRNAT.BIRNAT import BIRNAT
 from models.DAUHST.DAUHST import DAUHST
+from models.CST.CST import CST
 from ptflops import get_model_complexity_info
 
 #options: HSCNN ISTA_Net Lambda_Net DSSP HyperReconNet DNU TSA_Net GAP_Net PnP_HSI PnP_DIP_HSI DGSMP DTLP HerosNet  
-#                  CAE_SRN HDNet MST MST_Plus_Plus GAP_CCoT BIRNAT DAUHST
+#                  CAE_SRN HDNet MST MST_Plus_Plus GAP_CCoT CST BIRNAT DAUHST
 method = 'DAUHST' # select the method
 
 # citied pytorch version by https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py
@@ -120,6 +121,11 @@ elif method == 'MST_Plus_Plus':
 elif method == 'GAP_CCoT':
     model = GAP_CCoT().cuda()
     flops, params = get_model_complexity_info(model, (256, 310), True, True)
+
+# citied pytorch version by https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/CST.py
+elif method == 'CST':
+    model = CST().cuda()
+    flops, params = get_model_complexity_info(model, (28, 256, 256), True, True)
 
 # citied pytorch version by https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/BIRNAT.py
 elif method == 'BIRNAT':
