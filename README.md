@@ -527,8 +527,8 @@ The configurations are the same as ICVL Dataset.
       <td>0.895</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="3">Private</td>
-      <td rowspan="3">0.332</td>
-      <td rowspan="2">21.73</td>
+      <td rowspan="3">/</td>
+      <td rowspan="3">/</td>
    </tr>
    <tr align = "center">
       <td>256*256</td>
@@ -541,7 +541,6 @@ The configurations are the same as ICVL Dataset.
       <td>28.548</td>
       <td>0.944</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
-      <td>86.91</td>
    </tr>  
    <tr align = "center">
       <td rowspan="3">2016</td>
