@@ -651,11 +651,11 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    </tr>
    <tr align = "center">
       <td>2022</td>
-      <td><a href = " ">DAUHST</a></td>
+      <td><a href = "https://arxiv.org/abs/2205.10102">DAUHST</a></td>
       <td>38.36</td>
       <td>0.97</td>
-      <td><a href = " ">Original Paper</a></td>
-      <td><a href = " ">PyTorch</a></td>
+      <td><a href = "https://arxiv.org/abs/2205.10102">Original Paper</a></td>
+      <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/DAUHST.py">PyTorch</a></td>
       <td>6.15</td>
       <td>79.50</td>
    </tr>
@@ -671,21 +671,21 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    </tr>
    <tr align = "center">
       <td>2022</td>
-      <td><a href = " ">S^2-Transformer</a></td>
+      <td><a href = "https://arxiv.org/abs/2209.12075">S^2-Transformer</a></td>
       <td>36.48</td>
       <td>0.96</td>
-      <td><a href = " ">Original Paper</a></td>
-      <td><a href = " ">PyTorch</a></td>
+      <td><a href = "https://arxiv.org/abs/2209.12075">Original Paper</a></td>
+      <td>Private</td>
       <td>1.80</td>
       <td>27.21</td>
    </tr>
    <tr align = "center">
       <td>2022</td>
-      <td><a href = " ">CST</a></td>
+      <td><a href = "https://arxiv.org/abs/2203.04845">CST</a></td>
       <td>36.12</td>
       <td>0.96</td>
-      <td><a href = " ">Original Paper</a></td>
-      <td><a href = " ">PyTorch</a></td>
+      <td><a href = "https://arxiv.org/abs/2203.04845">Original Paper</a></td>
+      <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/CST.py">PyTorch</a></td>
       <td>3.00</td>
       <td>40.10</td>
    </tr>
