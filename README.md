@@ -112,7 +112,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>39.670'</td>
       <td>0.979</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
+      <td rowspan="2"><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
       <td rowspan="2">0.334</td>
       <td>22.42</td>
    </tr>
@@ -148,7 +148,7 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>29.006</td>
       <td>0.946</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
+      <td rowspan="2"><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
       <td rowspan="2">58.26</td>
       <td>44.82</td>
    </tr>
@@ -409,7 +409,7 @@ The configurations are the same as ICVL Dataset.
       <td>37.620'</td>
       <td>0.955</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
+      <td rowspan="2"><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
       <td rowspan="2">0.334</td>
       <td>22.42</td>
    </tr>
@@ -445,7 +445,7 @@ The configurations are the same as ICVL Dataset.
       <td>29.373</td>
       <td>0.909</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
+      <td rowspan="2"><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
       <td rowspan="2">58.26</td>
       <td>44.82</td>
    </tr>
