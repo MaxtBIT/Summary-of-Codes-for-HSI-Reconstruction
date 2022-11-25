@@ -43,15 +43,15 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td rowspan="2">Year</td>
       <td rowspan="2">Method</td>
       <!-- <td colspan="1"></td> -->
-      <td colspan="4">Performance</td>
-      <td colspan="2">Complexity</td>  
-      <td rowspan="2">Code Link</td>  
+      <td colspan="5">Performance</td>
+      <td colspan="2">Complexity</td>    
    </tr>
    <tr align = "center">
       <td>Size</td>
       <td>PSNR</td>
       <td>SSIM</td>
       <td>Source</td>
+      <td>Code Link</td>
       <td>Params(M)</td>
       <td>FLOPs(GMac)</td>
    </tr>
@@ -62,9 +62,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>38.900'</td>
       <td>0.980</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9412321/">Original Paper</a></td>
-      <td>/</td>
-      <td>/</td>
       <td>Private</td>
+      <td>/</td>
+      <td>/</td>
    </tr>
    <tr align = "center">
       <td>2021</td>
@@ -73,9 +73,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>36.571</td>
       <td>0.995</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9356383">Original Paper</a></td>
-      <td>/</td>
-      <td>/</td>
       <td>Private</td>
+      <td>/</td>
+      <td>/</td>
    </tr>
    <tr align = "center">
       <td>2021</td>
@@ -84,9 +84,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>34.530</td>
       <td>0.977</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Original Paper</a></td>
+      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
       <td>3.20</td>
       <td>185.47</td>
-      <td><a href = "https://github.com/wang-lizhi/DTLP_Pytorch">PyTorch </a><a href = "https://github.com/zspCoder/DTLP"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2020</td>
@@ -95,9 +95,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>34.270</td>
       <td>0.991</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9156942">Original Paper</a></td>
+      <td rowspan="2"><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
       <td rowspan="2">4.21</td>
       <td rowspan="2">1104.96</td>
-      <td rowspan="2"><a href = "https://github.com/wang-lizhi/DeepNonlocalUnrolling">PyTorch</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
@@ -112,9 +112,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>39.670'</td>
       <td>0.979</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
       <td rowspan="2">0.334</td>
       <td>22.42</td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
@@ -130,9 +130,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>38.430'</td>
       <td>0.972</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9607524">Reproduced Paper</a></td>
+      <td rowspan="2"><a href = "https://github.com/MaxtBIT/HyperReconNet">PyTorch </a><a href = "https://github.com/ColinTaoZhang/HyperReconNet"> Caffe</a></td>
       <td rowspan="2">3.86</td>
       <td>393.12</td>
-      <td rowspan="2"><a href = "https://github.com/MaxtBIT/HyperReconNet">PyTorch </a><a href = "https://github.com/ColinTaoZhang/HyperReconNet"> Caffe</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
@@ -148,9 +148,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>29.006</td>
       <td>0.946</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
+      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
       <td rowspan="2">58.26</td>
       <td>44.82</td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
@@ -166,9 +166,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>30.400</td>
       <td>0.943</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
+      <td>Private</td>
       <td>/</td>
       <td>≥1000</td>
-      <td>Private</td>
    </tr>
    <tr align = "center">
       <td rowspan="2">2018</td>
@@ -177,9 +177,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>30.498</td>
       <td>0.947</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
+      <td rowspan="2"><a href = "https://github.com/jianzhangcs/ISTA-Net-PyTorch">PyTorch </a><a href = "https://github.com/jianzhangcs/ISTA-Net"> TensorFlow</a></td>
       <td rowspan="2">3.12</td>
       <td>32.53</td>
-      <td rowspan="2"><a href = "https://github.com/jianzhangcs/ISTA-Net-PyTorch">PyTorch </a><a href = "https://github.com/jianzhangcs/ISTA-Net"> TensorFlow</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
@@ -195,9 +195,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>28.068</td>
       <td>0.923</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
-      <td rowspan="2">/</td>
-      <td rowspan="2">/</td>
       <td rowspan="2"><a href = "https://github.com/KAIST-VCLAB/deepcassi">TensorFlow</a></td>
+      <td rowspan="2">/</td>
+      <td rowspan="2">/</td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
@@ -212,9 +212,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>27.472</td>
       <td>0.914</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
+      <td rowspan="2">Private</td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
-      <td rowspan="2">Private</td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
@@ -229,9 +229,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>28.446</td>
       <td>0.934</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
+      <td rowspan="3"><a href = "https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py">PyTorch</a></td>
       <td rowspan="3">0.332</td>
       <td rowspan="2">21.73</td>
-      <td rowspan="3"><a href = "https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py">PyTorch</a></td>
    </tr>
    <tr align = "center">
       <td>256*256</td>
@@ -253,9 +253,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>29.793</td>
       <td>0.940</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
+      <td rowspan="3">Private</td>
       <td rowspan="3">/</td>
       <td rowspan="3">≥1000</td>
-      <td rowspan="3">Private</td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
@@ -276,9 +276,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>26.770</td>
       <td>0.947</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
+      <td>Private</td>
       <td>/</td>
       <td>≥1000</td>
-      <td>Private</td>
    </tr>
    <tr align = "center">
       <td>2011</td>
@@ -287,9 +287,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>26.470</td>
       <td>0.941</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8552450">Reproduced Paper</a></td>
+      <td>Private</td>
       <td>/</td>
       <td>≥1000</td>
-      <td>Private</td>
    </tr>
    <tr align = "center">
       <td>2007</td>
@@ -298,9 +298,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>24.560</td>
       <td>0.909</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
+      <td>Private</td>
       <td>/</td>
       <td>≥1000</td>
-      <td>Private</td>
    </tr>
       <tr align = "center">
       <td rowspan="2">2007</td>
@@ -309,9 +309,9 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>25.442</td>
       <td>0.906</td>
       <td> <a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
+      <td rowspan="2"><a href = "https://github.com/vbisin/Image-Restoration-Algorithm-TwIST">Python</a></td>
       <td rowspan="2">/</td>
       <td rowspan="2">≥1000</td>
-      <td rowspan="2"><a href = "https://github.com/vbisin/Image-Restoration-Algorithm-TwIST">Python</a></td>
    </tr>
    <tr align = "center">
       <td>512*512</td>
