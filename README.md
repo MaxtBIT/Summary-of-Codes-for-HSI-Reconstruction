@@ -657,7 +657,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td>36.14</td>
       <td>0.97</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">Original Paper</a></td>
-      <td><a href = "https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/BIRNAT.py">PyTorch</a></td>
+      <td><a href = "https://github.com/BoChenGroup/BIRNAT">PyTorch</a></td>
       <td>4.40</td>
       <td>3536.64</td>
    </tr>
@@ -727,7 +727,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td>32.63</td>
       <td>0.92</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9578572">Original Paper</a></td>
-      <td><a href = "https://github.com/MaxtBIT/DGSMP">PyTorch</a></td>
+      <td><a href = "https://github.com/TaoHuang95/DGSMP">PyTorch</a></td>
       <td>3.76</td>
       <td>647.80</td>
    </tr>
@@ -797,7 +797,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td>30.35</td>
       <td>0.85</td>
       <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduced Paper</a></td>
-      <td rowspan="3"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
+      <td rowspan="3"><a href = "https://github.com/wang-lizhi/DSSP"> TensorFlow</a></td>
       <td rowspan="3">0.30</td>
       <td rowspan="3">20.14</td>
    </tr>
@@ -817,7 +817,7 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td>28.53</td>
       <td>0.84</td>
       <td> <a href = "https://ieeexplore.ieee.org/document/9578572"> Reproduced Paper</a></td>
-      <td rowspan="2"><a href = "https://github.com/mlplab/Lambda">PyTorch </a><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
+      <td rowspan="2"><a href = "https://github.com/xinxinmiao/lambda-net"> TensorFlow</a></td>
       <td rowspan="2">58.25</td>
       <td rowspan="2">44.59</td>
 
