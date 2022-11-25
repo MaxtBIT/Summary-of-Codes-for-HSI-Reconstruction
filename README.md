@@ -230,8 +230,8 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>0.934</td>
       <td><a href = "https://ieeexplore.ieee.org/document/9577826">Reproduced Paper</a></td>
       <td rowspan="3">Private</td>
-      <td rowspan="3">0.332</td>
-      <td rowspan="2">21.73</td>
+      <td rowspan="3">/</td>
+      <td rowspan="3">/</td>
    </tr>
    <tr align = "center">
       <td>256*256</td>
@@ -244,7 +244,6 @@ To derive the simulative measurement, first, the coded aperture pattern is const
       <td>29.475</td>
       <td>0.973</td>
       <td><a href = "https://ieeexplore.ieee.org/document/8954038">Reproduced Paper</a></td>
-      <td>86.91</td>
    </tr>  
    <tr align = "center">
       <td rowspan="3">2016</td>
