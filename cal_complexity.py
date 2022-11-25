@@ -17,10 +17,12 @@ from models.MST.MST import MST
 from models.MST_Plus_Plus.MST_Plus_Plus import MST_Plus_Plus
 from models.GAP_CCoT.gap_network import GAP_CCoT
 from models.BIRNAT.BIRNAT import BIRNAT
+from models.DAUHST.DAUHST import DAUHST
 from ptflops import get_model_complexity_info
 
-#options: HSCNN ISTA_Net Lambda_Net DSSP HyperReconNet DNU TSA_Net GAP_Net PnP_HSI PnP_DIP_HSI DGSMP DTLP HerosNet  CAE_SRN HDNet MST MST_Plus_Plus GAP_CCoT BIRNAT
-method = 'Lambda_Net' # select the method
+#options: HSCNN ISTA_Net Lambda_Net DSSP HyperReconNet DNU TSA_Net GAP_Net PnP_HSI PnP_DIP_HSI DGSMP DTLP HerosNet  
+#                  CAE_SRN HDNet MST MST_Plus_Plus GAP_CCoT BIRNAT DAUHST
+method = 'DAUHST' # select the method
 
 # citied pytorch version by https://github.com/mlplab/Lambda/blob/Lambda/model/HSCNN.py
 if method == 'HSCNN':
@@ -125,6 +127,11 @@ elif method == 'BIRNAT':
     #If out of memory, the input size can be reduced to 128*182. Then, expand the FLOPs by 4 times.
     flops, params = get_model_complexity_info(model, (256, 310), True, True)
     
+# citied pytorch version by https://github.com/caiyuanhao1998/MST/blob/main/simulation/train_code/architecture/DAUHST.py
+elif method == 'DAUHST':
+    model = DAUHST().cuda()
+    flops, params = get_model_complexity_info(model, (256, 310), True, True)
+
 else:
     raise NotImplementedError
 
