@@ -651,6 +651,16 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
    </tr>
    <tr align = "center">
       <td>2022</td>
+      <td><a href = " ">DAUHST</a></td>
+      <td>38.36</td>
+      <td>0.97</td>
+      <td><a href = " ">Original Paper</a></td>
+      <td><a href = " ">PyTorch</a></td>
+      <td>6.15</td>
+      <td>79.50</td>
+   </tr>
+   <tr align = "center">
+      <td>2022</td>
       <td><a href = "https://ieeexplore.ieee.org/abstract/document/9741335">BIRNAT</a></td>
       <td>36.14</td>
       <td>0.97</td>
@@ -658,6 +668,26 @@ In this stage, the coded aperture pattern is a real mask with the size of 256 * 
       <td><a href = "https://github.com/BoChenGroup/BIRNAT">PyTorch</a></td>
       <td>4.40</td>
       <td>3536.64</td>
+   </tr>
+   <tr align = "center">
+      <td>2022</td>
+      <td><a href = " ">S^2-Transformer</a></td>
+      <td>36.48</td>
+      <td>0.96</td>
+      <td><a href = " ">Original Paper</a></td>
+      <td><a href = " ">PyTorch</a></td>
+      <td>1.80</td>
+      <td>27.21</td>
+   </tr>
+   <tr align = "center">
+      <td>2022</td>
+      <td><a href = " ">CST</a></td>
+      <td>36.12</td>
+      <td>0.96</td>
+      <td><a href = " ">Original Paper</a></td>
+      <td><a href = " ">PyTorch</a></td>
+      <td>3.00</td>
+      <td>40.10</td>
    </tr>
    <tr align = "center">
       <td>2022</td>
